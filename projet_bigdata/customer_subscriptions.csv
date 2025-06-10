@@ -1,0 +1,2501 @@
+customer_id,activation_date,subscription_type,status,region,rate_plan_id
+212714656152,2024-11-20,postpaid,active,Marrakech-Safi,Starter
+212649259764,2023-11-02,postpaid,active,Béni Mellal-Khénifra,Premium
+212608319372,2023-12-24,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212714331445,2024-06-30,postpaid,active,Oriental,Starter
+212721886056,2025-04-09,postpaid,active,Drâa-Tafilalet,Infinity
+212622414975,2024-11-03,postpaid,active,Guelmim-Oued Noun,Starter
+212793821632,2023-07-26,postpaid,active,Rabat-Salé-Kénitra,Premium
+212643396506,2024-06-05,postpaid,active,Drâa-Tafilalet,Starter
+212705347269,2023-11-02,postpaid,active,Rabat-Salé-Kénitra,Premium
+212610142207,2024-10-13,postpaid,active,Souss-Massa,Premium
+212676792105,2024-09-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212700677253,2024-03-05,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212756252590,2023-10-15,postpaid,active,Guelmim-Oued Noun,Starter
+212672782895,2024-08-11,postpaid,active,Souss-Massa,Premium
+212670632726,2024-08-21,postpaid,active,Souss-Massa,Starter
+212721276815,2024-08-15,postpaid,active,Fès-Meknès,Premium
+212735577467,2024-09-10,postpaid,active,Marrakech-Safi,Starter
+212784667654,2024-03-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212756646585,2023-10-03,postpaid,active,Marrakech-Safi,Premium
+212705926316,2024-02-14,postpaid,active,Drâa-Tafilalet,Infinity
+212664624148,2025-06-04,postpaid,active,Marrakech-Safi,Starter
+212785566641,2024-06-29,postpaid,active,Rabat-Salé-Kénitra,Starter
+212706567569,2024-12-22,postpaid,active,Béni Mellal-Khénifra,Starter
+212663808400,2024-09-11,postpaid,active,Rabat-Salé-Kénitra,Starter
+212778250581,2025-03-16,postpaid,active,Oriental,Infinity
+212628173164,2025-05-22,postpaid,active,Béni Mellal-Khénifra,Premium
+212693243613,2024-06-23,postpaid,active,Fès-Meknès,Starter
+212689770479,2024-01-25,postpaid,active,Oriental,Starter
+212619638631,2023-08-18,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212776290755,2024-11-28,postpaid,active,Oriental,Infinity
+212706098015,2024-06-19,postpaid,active,Drâa-Tafilalet,Premium
+212660039537,2025-03-31,postpaid,active,Fès-Meknès,Premium
+212795727804,2023-09-05,postpaid,active,Béni Mellal-Khénifra,Infinity
+212733493002,2025-06-08,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212753650719,2024-06-07,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212769693667,2024-10-02,postpaid,active,Marrakech-Safi,Premium
+212719492373,2023-08-23,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212765687389,2023-10-22,postpaid,active,Oriental,Premium
+212772732876,2024-03-20,postpaid,active,Béni Mellal-Khénifra,Infinity
+212636867768,2024-12-18,postpaid,active,Marrakech-Safi,Starter
+212745349358,2024-04-09,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212726463130,2023-08-12,postpaid,active,Guelmim-Oued Noun,Premium
+212796445578,2025-04-11,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212702120454,2024-09-24,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212789132896,2024-10-16,postpaid,active,Béni Mellal-Khénifra,Starter
+212601027729,2023-09-01,postpaid,active,Casablanca-Settat,Starter
+212601610946,2025-02-19,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212777495121,2024-05-08,postpaid,active,Drâa-Tafilalet,Starter
+212608791209,2023-07-27,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212754324048,2023-10-18,postpaid,active,Guelmim-Oued Noun,Infinity
+212670293740,2024-05-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212778231633,2024-01-08,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212742887880,2024-11-23,postpaid,active,Rabat-Salé-Kénitra,Premium
+212602717882,2024-07-17,postpaid,active,Marrakech-Safi,Starter
+212692969259,2024-03-27,postpaid,active,Marrakech-Safi,Infinity
+212765091415,2024-01-13,postpaid,active,Souss-Massa,Infinity
+212669913481,2024-11-06,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212758013191,2023-11-18,postpaid,active,Béni Mellal-Khénifra,Infinity
+212760113295,2025-06-06,postpaid,active,Guelmim-Oued Noun,Premium
+212686851679,2024-07-15,postpaid,active,Béni Mellal-Khénifra,Infinity
+212650502816,2023-12-10,postpaid,active,Drâa-Tafilalet,Premium
+212774232085,2024-09-08,postpaid,active,Casablanca-Settat,Infinity
+212729403502,2024-04-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212797865523,2023-09-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212777211148,2025-04-09,postpaid,active,Fès-Meknès,Starter
+212749316524,2024-11-05,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212711616165,2023-07-05,postpaid,active,Marrakech-Safi,Infinity
+212770711954,2023-11-05,postpaid,active,Oriental,Premium
+212706817128,2025-05-04,postpaid,active,Guelmim-Oued Noun,Premium
+212706368937,2023-06-10,postpaid,active,Oriental,Starter
+212636847868,2023-11-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212661777961,2023-11-11,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212619920817,2024-09-15,postpaid,active,Oriental,Infinity
+212610292937,2024-07-19,postpaid,active,Guelmim-Oued Noun,Infinity
+212639020961,2024-07-04,postpaid,active,Marrakech-Safi,Premium
+212737846937,2024-11-10,postpaid,active,Fès-Meknès,Starter
+212614150398,2024-12-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212774863153,2024-03-08,postpaid,active,Fès-Meknès,Premium
+212721405157,2024-03-12,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212610117630,2024-04-10,postpaid,active,Guelmim-Oued Noun,Premium
+212747409413,2023-12-22,postpaid,active,Marrakech-Safi,Infinity
+212707340851,2024-04-30,postpaid,active,Oriental,Starter
+212607421804,2024-06-19,postpaid,active,Casablanca-Settat,Starter
+212700351536,2025-03-11,postpaid,active,Guelmim-Oued Noun,Premium
+212653561297,2023-11-12,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212681595599,2024-01-28,postpaid,active,Oriental,Infinity
+212768695725,2025-03-28,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212649670557,2023-07-13,postpaid,active,Béni Mellal-Khénifra,Starter
+212725319855,2024-09-22,postpaid,active,Casablanca-Settat,Starter
+212730998803,2023-11-21,postpaid,active,Oriental,Starter
+212718399000,2025-01-16,postpaid,active,Souss-Massa,Starter
+212609100138,2024-04-20,postpaid,active,Oriental,Infinity
+212707561195,2024-10-18,postpaid,active,Casablanca-Settat,Infinity
+212794641348,2025-06-06,postpaid,active,Guelmim-Oued Noun,Infinity
+212681570066,2024-10-11,postpaid,active,Rabat-Salé-Kénitra,Starter
+212611143590,2023-12-16,postpaid,active,Guelmim-Oued Noun,Starter
+212693957463,2024-09-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212622407277,2024-08-18,postpaid,active,Souss-Massa,Starter
+212675537796,2024-07-11,postpaid,active,Drâa-Tafilalet,Premium
+212617087377,2023-06-12,postpaid,active,Fès-Meknès,Premium
+212788210191,2025-02-16,postpaid,active,Drâa-Tafilalet,Infinity
+212766368323,2024-12-30,postpaid,active,Souss-Massa,Premium
+212665172724,2023-12-23,postpaid,active,Oriental,Starter
+212695486762,2025-01-31,postpaid,active,Fès-Meknès,Infinity
+212723800711,2023-07-01,postpaid,active,Fès-Meknès,Starter
+212744270542,2024-02-28,postpaid,active,Guelmim-Oued Noun,Premium
+212638540820,2024-10-20,postpaid,active,Rabat-Salé-Kénitra,Premium
+212649478135,2024-02-08,postpaid,active,Fès-Meknès,Starter
+212764479786,2024-03-12,postpaid,active,Béni Mellal-Khénifra,Starter
+212652655727,2023-08-26,postpaid,active,Casablanca-Settat,Starter
+212629982938,2023-08-05,postpaid,active,Oriental,Infinity
+212635625243,2025-05-20,postpaid,active,Drâa-Tafilalet,Premium
+212788276347,2025-03-02,postpaid,active,Drâa-Tafilalet,Premium
+212764865779,2025-01-28,postpaid,active,Fès-Meknès,Premium
+212682840333,2025-04-30,postpaid,active,Béni Mellal-Khénifra,Infinity
+212600974794,2024-03-18,postpaid,active,Oriental,Starter
+212773204381,2025-05-30,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212668155083,2024-11-02,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212780954969,2023-07-09,postpaid,active,Fès-Meknès,Infinity
+212610602091,2023-10-17,postpaid,active,Oriental,Premium
+212655647631,2023-07-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212776668694,2023-09-25,postpaid,active,Souss-Massa,Premium
+212717852413,2023-07-14,postpaid,active,Marrakech-Safi,Starter
+212793003606,2024-01-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212648226599,2023-08-24,postpaid,active,Casablanca-Settat,Starter
+212604521547,2024-10-29,postpaid,active,Souss-Massa,Starter
+212612106753,2024-09-15,postpaid,active,Souss-Massa,Starter
+212732311809,2025-03-24,postpaid,active,Oriental,Premium
+212723280957,2024-10-23,postpaid,active,Oriental,Infinity
+212788746720,2023-08-08,postpaid,active,Marrakech-Safi,Infinity
+212705630720,2024-12-22,postpaid,active,Casablanca-Settat,Infinity
+212714490810,2025-04-09,postpaid,active,Drâa-Tafilalet,Starter
+212702690934,2023-07-31,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212757822845,2025-05-24,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212785452888,2025-01-13,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212705973017,2023-12-19,postpaid,active,Casablanca-Settat,Starter
+212731026316,2024-11-13,postpaid,active,Souss-Massa,Premium
+212777358856,2023-08-31,postpaid,active,Marrakech-Safi,Starter
+212664359671,2024-12-04,postpaid,active,Drâa-Tafilalet,Premium
+212706508604,2025-04-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212793241222,2024-06-03,postpaid,active,Guelmim-Oued Noun,Starter
+212753176988,2025-02-06,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212761143997,2023-08-09,postpaid,active,Guelmim-Oued Noun,Premium
+212638038884,2024-02-01,postpaid,active,Marrakech-Safi,Premium
+212725511768,2024-11-08,postpaid,active,Marrakech-Safi,Infinity
+212684033481,2025-03-18,postpaid,active,Fès-Meknès,Premium
+212605074447,2023-08-10,postpaid,active,Fès-Meknès,Starter
+212641334969,2023-08-20,postpaid,active,Béni Mellal-Khénifra,Starter
+212740737297,2024-07-07,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212685501121,2023-11-21,postpaid,active,Rabat-Salé-Kénitra,Premium
+212714862658,2024-01-31,postpaid,active,Fès-Meknès,Infinity
+212676527895,2025-02-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212676168160,2025-06-05,postpaid,active,Rabat-Salé-Kénitra,Starter
+212739420213,2025-01-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212626005011,2024-10-29,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212708904586,2023-12-21,postpaid,active,Fès-Meknès,Starter
+212750452186,2024-05-17,postpaid,active,Drâa-Tafilalet,Starter
+212712985293,2023-07-28,postpaid,active,Marrakech-Safi,Premium
+212609861090,2025-02-02,postpaid,active,Marrakech-Safi,Premium
+212608427348,2024-02-06,postpaid,active,Souss-Massa,Starter
+212633597365,2023-09-25,postpaid,active,Souss-Massa,Infinity
+212607004732,2024-05-14,postpaid,active,Souss-Massa,Starter
+212746516272,2024-10-19,postpaid,active,Souss-Massa,Premium
+212667973768,2025-05-31,postpaid,active,Béni Mellal-Khénifra,Starter
+212637787143,2023-09-19,postpaid,active,Oriental,Infinity
+212789258004,2024-06-07,postpaid,active,Béni Mellal-Khénifra,Infinity
+212775879747,2025-03-27,postpaid,active,Oriental,Premium
+212634979233,2024-08-28,postpaid,active,Fès-Meknès,Infinity
+212669205124,2024-09-18,postpaid,active,Oriental,Premium
+212742945981,2024-08-24,postpaid,active,Guelmim-Oued Noun,Infinity
+212781659680,2024-09-22,postpaid,active,Guelmim-Oued Noun,Starter
+212685950397,2023-09-07,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212618007262,2023-08-28,postpaid,active,Guelmim-Oued Noun,Starter
+212705757802,2023-07-01,postpaid,active,Rabat-Salé-Kénitra,Starter
+212732239259,2025-05-09,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212674635715,2023-09-21,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212705290063,2023-12-07,postpaid,active,Oriental,Starter
+212731771504,2025-05-06,postpaid,active,Rabat-Salé-Kénitra,Starter
+212748694358,2025-06-08,postpaid,active,Rabat-Salé-Kénitra,Starter
+212702177731,2025-01-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212685159199,2025-02-09,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212789793209,2024-07-24,postpaid,active,Fès-Meknès,Infinity
+212622979306,2023-08-18,postpaid,active,Marrakech-Safi,Infinity
+212728117700,2024-01-03,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212615689701,2025-06-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212776260976,2023-09-28,postpaid,active,Béni Mellal-Khénifra,Premium
+212795637118,2023-09-09,postpaid,active,Drâa-Tafilalet,Premium
+212749536812,2025-02-22,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212656482396,2023-11-10,postpaid,active,Béni Mellal-Khénifra,Infinity
+212615294608,2025-01-08,postpaid,active,Marrakech-Safi,Infinity
+212695630455,2023-08-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212717379295,2025-04-16,postpaid,active,Béni Mellal-Khénifra,Infinity
+212639128283,2024-09-01,postpaid,active,Marrakech-Safi,Infinity
+212797945982,2024-04-07,postpaid,active,Fès-Meknès,Starter
+212798040243,2024-10-26,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212713267541,2023-08-29,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212639621376,2023-07-24,postpaid,active,Béni Mellal-Khénifra,Infinity
+212704274180,2024-03-14,postpaid,active,Fès-Meknès,Premium
+212657403660,2024-01-12,postpaid,active,Souss-Massa,Infinity
+212624936645,2023-11-21,postpaid,active,Fès-Meknès,Infinity
+212600828137,2023-08-15,postpaid,active,Béni Mellal-Khénifra,Premium
+212650049080,2024-06-19,postpaid,active,Guelmim-Oued Noun,Starter
+212789223249,2024-10-08,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212779508396,2024-03-17,postpaid,active,Drâa-Tafilalet,Starter
+212625776651,2024-06-14,postpaid,active,Rabat-Salé-Kénitra,Starter
+212759675393,2025-05-02,postpaid,active,Guelmim-Oued Noun,Premium
+212647875809,2023-12-16,postpaid,active,Rabat-Salé-Kénitra,Premium
+212661209311,2023-07-27,postpaid,active,Béni Mellal-Khénifra,Starter
+212755469622,2023-12-30,postpaid,active,Oriental,Infinity
+212661281706,2024-03-08,postpaid,active,Casablanca-Settat,Premium
+212723480592,2024-10-11,postpaid,active,Rabat-Salé-Kénitra,Starter
+212683691915,2023-09-11,postpaid,active,Drâa-Tafilalet,Starter
+212670422618,2025-04-03,postpaid,active,Béni Mellal-Khénifra,Infinity
+212737024873,2023-09-30,postpaid,active,Casablanca-Settat,Premium
+212691645675,2024-08-21,postpaid,active,Fès-Meknès,Premium
+212652672878,2024-06-12,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212606206916,2023-07-03,postpaid,active,Oriental,Starter
+212754604430,2024-11-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212764873352,2024-01-20,postpaid,active,Drâa-Tafilalet,Starter
+212641418272,2023-10-29,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212699595981,2025-02-12,postpaid,active,Guelmim-Oued Noun,Premium
+212737881872,2025-01-02,postpaid,active,Casablanca-Settat,Starter
+212721923010,2023-11-25,postpaid,active,Béni Mellal-Khénifra,Premium
+212614494226,2025-05-06,postpaid,active,Béni Mellal-Khénifra,Starter
+212779498249,2024-07-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212674762850,2024-02-18,postpaid,active,Casablanca-Settat,Starter
+212682265763,2025-04-20,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212651644150,2025-01-11,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212640386522,2023-07-04,postpaid,active,Béni Mellal-Khénifra,Infinity
+212748684580,2024-06-09,postpaid,active,Rabat-Salé-Kénitra,Premium
+212603805882,2024-08-31,postpaid,active,Rabat-Salé-Kénitra,Premium
+212741951193,2023-11-21,postpaid,active,Béni Mellal-Khénifra,Starter
+212745768978,2023-08-21,postpaid,active,Guelmim-Oued Noun,Infinity
+212752437869,2024-05-17,postpaid,active,Drâa-Tafilalet,Infinity
+212720725404,2025-03-15,postpaid,active,Drâa-Tafilalet,Starter
+212716677911,2023-09-14,postpaid,active,Béni Mellal-Khénifra,Premium
+212744896006,2024-10-27,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212701687812,2023-08-26,postpaid,active,Drâa-Tafilalet,Starter
+212752484494,2023-12-09,postpaid,active,Fès-Meknès,Infinity
+212689890337,2024-01-03,postpaid,active,Guelmim-Oued Noun,Starter
+212717985100,2024-01-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212795423230,2024-03-10,postpaid,active,Béni Mellal-Khénifra,Starter
+212607327207,2023-08-12,postpaid,active,Guelmim-Oued Noun,Starter
+212776868411,2024-11-09,postpaid,active,Béni Mellal-Khénifra,Infinity
+212755708764,2024-01-01,postpaid,active,Marrakech-Safi,Starter
+212769488306,2025-03-04,postpaid,active,Guelmim-Oued Noun,Premium
+212612064199,2024-12-13,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212627868339,2024-01-18,postpaid,active,Marrakech-Safi,Premium
+212702409823,2024-08-03,postpaid,active,Fès-Meknès,Premium
+212796312065,2023-08-18,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212666483478,2024-06-06,postpaid,active,Béni Mellal-Khénifra,Starter
+212729493330,2023-06-23,postpaid,active,Marrakech-Safi,Infinity
+212649557017,2024-09-21,postpaid,active,Béni Mellal-Khénifra,Premium
+212770734691,2023-09-01,postpaid,active,Rabat-Salé-Kénitra,Premium
+212759064129,2024-09-09,postpaid,active,Béni Mellal-Khénifra,Starter
+212642586295,2024-07-02,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212745345045,2024-04-02,postpaid,active,Béni Mellal-Khénifra,Infinity
+212650163301,2025-02-24,postpaid,active,Drâa-Tafilalet,Starter
+212758935741,2025-02-22,postpaid,active,Fès-Meknès,Starter
+212637377602,2025-05-16,postpaid,active,Souss-Massa,Starter
+212748193013,2025-06-04,postpaid,active,Marrakech-Safi,Infinity
+212601262991,2023-06-13,postpaid,active,Guelmim-Oued Noun,Premium
+212625616624,2023-06-26,postpaid,active,Oriental,Premium
+212714719674,2023-06-25,postpaid,active,Oriental,Starter
+212723276535,2023-07-30,postpaid,active,Guelmim-Oued Noun,Infinity
+212685252320,2024-08-26,postpaid,active,Marrakech-Safi,Starter
+212633385701,2024-09-14,postpaid,active,Oriental,Starter
+212620516277,2024-03-18,postpaid,active,Souss-Massa,Premium
+212663796674,2024-05-07,postpaid,active,Rabat-Salé-Kénitra,Premium
+212687254309,2025-03-15,postpaid,active,Oriental,Starter
+212650509629,2024-10-16,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212663246140,2025-05-18,postpaid,active,Marrakech-Safi,Infinity
+212631601513,2025-05-19,postpaid,active,Casablanca-Settat,Premium
+212689106531,2024-06-23,postpaid,active,Drâa-Tafilalet,Starter
+212634216774,2025-04-28,postpaid,active,Drâa-Tafilalet,Premium
+212775056505,2024-06-06,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212675142616,2023-06-13,postpaid,active,Oriental,Infinity
+212763243648,2024-04-02,postpaid,active,Béni Mellal-Khénifra,Premium
+212783242912,2024-07-31,postpaid,active,Marrakech-Safi,Infinity
+212716177863,2024-02-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212612896627,2025-03-22,postpaid,active,Fès-Meknès,Infinity
+212747269124,2023-12-03,postpaid,active,Marrakech-Safi,Premium
+212739626136,2024-02-11,postpaid,active,Souss-Massa,Premium
+212626720195,2024-12-13,postpaid,active,Drâa-Tafilalet,Starter
+212714321469,2025-04-12,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212676430955,2023-06-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212606847849,2025-05-19,postpaid,active,Guelmim-Oued Noun,Starter
+212681637268,2025-06-03,postpaid,active,Marrakech-Safi,Infinity
+212745576313,2024-03-08,postpaid,active,Béni Mellal-Khénifra,Premium
+212754841735,2024-11-16,postpaid,active,Oriental,Premium
+212608794213,2024-01-09,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212605460436,2023-10-13,postpaid,active,Oriental,Infinity
+212641922543,2024-05-18,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212760328766,2023-08-03,postpaid,active,Marrakech-Safi,Infinity
+212765350685,2025-03-19,postpaid,active,Casablanca-Settat,Premium
+212672399232,2024-07-01,postpaid,active,Fès-Meknès,Premium
+212711049039,2025-03-24,postpaid,active,Casablanca-Settat,Premium
+212758572141,2024-01-22,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212727665253,2025-03-22,postpaid,active,Fès-Meknès,Premium
+212747673857,2023-10-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212668174489,2024-07-12,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212650387444,2023-07-02,postpaid,active,Guelmim-Oued Noun,Starter
+212772297323,2025-02-22,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212774413767,2024-07-03,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212616049741,2024-01-28,postpaid,active,Marrakech-Safi,Infinity
+212705001635,2023-06-12,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212623147300,2024-02-28,postpaid,active,Fès-Meknès,Premium
+212645758760,2025-04-26,postpaid,active,Rabat-Salé-Kénitra,Starter
+212623573279,2023-12-20,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212748719513,2024-03-06,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212600019377,2024-08-05,postpaid,active,Drâa-Tafilalet,Starter
+212620279798,2025-04-27,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212685943869,2025-06-05,postpaid,active,Marrakech-Safi,Premium
+212791321266,2025-04-21,postpaid,active,Rabat-Salé-Kénitra,Starter
+212666920753,2025-02-22,postpaid,active,Drâa-Tafilalet,Infinity
+212702743742,2025-04-03,postpaid,active,Drâa-Tafilalet,Premium
+212686661333,2024-07-27,postpaid,active,Rabat-Salé-Kénitra,Premium
+212644551529,2024-03-02,postpaid,active,Béni Mellal-Khénifra,Premium
+212694450315,2024-02-02,postpaid,active,Rabat-Salé-Kénitra,Starter
+212783621858,2024-01-05,postpaid,active,Marrakech-Safi,Starter
+212799995392,2023-12-13,postpaid,active,Guelmim-Oued Noun,Starter
+212777686545,2024-10-01,postpaid,active,Guelmim-Oued Noun,Infinity
+212783616410,2023-12-28,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212717067751,2023-07-09,postpaid,active,Béni Mellal-Khénifra,Infinity
+212698478131,2023-10-21,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212623391605,2024-11-16,postpaid,active,Fès-Meknès,Premium
+212782399459,2025-04-18,postpaid,active,Fès-Meknès,Starter
+212688488469,2024-11-12,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212721167650,2023-10-29,postpaid,active,Marrakech-Safi,Starter
+212642112221,2025-02-17,postpaid,active,Rabat-Salé-Kénitra,Starter
+212647123359,2025-04-27,postpaid,active,Rabat-Salé-Kénitra,Starter
+212610492288,2024-09-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212712584223,2024-08-24,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212659142582,2023-09-18,postpaid,active,Casablanca-Settat,Premium
+212632420614,2023-08-21,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212622730840,2024-02-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212785306876,2025-02-05,postpaid,active,Guelmim-Oued Noun,Starter
+212742343015,2025-02-06,postpaid,active,Oriental,Starter
+212624578528,2024-07-12,postpaid,active,Béni Mellal-Khénifra,Infinity
+212752605630,2023-12-11,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212630758835,2025-01-04,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212723190872,2024-05-09,postpaid,active,Oriental,Infinity
+212640885300,2023-09-15,postpaid,active,Béni Mellal-Khénifra,Premium
+212613251780,2025-01-27,postpaid,active,Oriental,Premium
+212763083292,2024-04-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212619020008,2025-05-29,postpaid,active,Fès-Meknès,Infinity
+212609751902,2024-11-18,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212785677528,2024-05-14,postpaid,active,Marrakech-Safi,Infinity
+212754280652,2024-03-09,postpaid,active,Oriental,Premium
+212633389283,2025-03-04,postpaid,active,Drâa-Tafilalet,Premium
+212777904674,2025-02-11,postpaid,active,Oriental,Infinity
+212762044823,2023-09-19,postpaid,active,Guelmim-Oued Noun,Premium
+212703185390,2023-08-13,postpaid,active,Marrakech-Safi,Infinity
+212695572707,2023-11-01,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212730086312,2025-06-03,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212708201781,2025-02-12,postpaid,active,Casablanca-Settat,Infinity
+212755630026,2023-11-09,postpaid,active,Béni Mellal-Khénifra,Starter
+212732259036,2024-09-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212769191534,2024-07-16,postpaid,active,Casablanca-Settat,Infinity
+212614879368,2024-02-04,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212637773235,2023-12-17,postpaid,active,Guelmim-Oued Noun,Infinity
+212700577214,2025-03-28,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212708592751,2025-01-31,postpaid,active,Marrakech-Safi,Premium
+212722406334,2023-06-24,postpaid,active,Souss-Massa,Infinity
+212759481607,2024-05-15,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212771399154,2025-04-25,postpaid,active,Drâa-Tafilalet,Premium
+212613469978,2023-12-05,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212773002270,2023-07-30,postpaid,active,Oriental,Premium
+212695832743,2024-01-16,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212744593965,2024-04-17,postpaid,active,Drâa-Tafilalet,Starter
+212666298232,2023-08-20,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212619409650,2024-09-03,postpaid,active,Guelmim-Oued Noun,Premium
+212628241988,2025-02-25,postpaid,active,Guelmim-Oued Noun,Premium
+212666594980,2023-06-29,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212694857669,2023-08-01,postpaid,active,Fès-Meknès,Infinity
+212623180033,2024-05-28,postpaid,active,Souss-Massa,Premium
+212709538859,2024-01-14,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212715235449,2023-12-17,postpaid,active,Marrakech-Safi,Premium
+212798238089,2025-01-17,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212740505072,2025-03-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212719904204,2025-03-02,postpaid,active,Rabat-Salé-Kénitra,Premium
+212745223849,2025-05-17,postpaid,active,Casablanca-Settat,Starter
+212736898522,2024-01-28,postpaid,active,Rabat-Salé-Kénitra,Starter
+212611357256,2025-02-23,postpaid,active,Souss-Massa,Infinity
+212715284078,2024-04-09,postpaid,active,Rabat-Salé-Kénitra,Starter
+212640319574,2024-05-19,postpaid,active,Fès-Meknès,Premium
+212700899658,2025-01-18,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212644505413,2025-01-27,postpaid,active,Fès-Meknès,Premium
+212751161240,2023-07-08,postpaid,active,Casablanca-Settat,Premium
+212654959246,2024-07-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212647218878,2023-08-04,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212718145422,2024-09-01,postpaid,active,Guelmim-Oued Noun,Starter
+212739763919,2023-09-29,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212714326872,2024-09-10,postpaid,active,Rabat-Salé-Kénitra,Premium
+212743080460,2023-12-13,postpaid,active,Fès-Meknès,Premium
+212702001341,2024-08-24,postpaid,active,Rabat-Salé-Kénitra,Premium
+212767061212,2024-11-19,postpaid,active,Oriental,Infinity
+212628079597,2024-08-22,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212647306981,2024-08-08,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212734558805,2024-03-07,postpaid,active,Souss-Massa,Premium
+212636279421,2024-07-05,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212627088533,2024-12-17,postpaid,active,Oriental,Infinity
+212674143761,2025-01-20,postpaid,active,Fès-Meknès,Infinity
+212776964126,2025-02-07,postpaid,active,Oriental,Starter
+212668382542,2024-05-09,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212798803621,2024-06-06,postpaid,active,Guelmim-Oued Noun,Premium
+212788662723,2024-01-02,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212675425004,2024-05-13,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212692752654,2024-12-14,postpaid,active,Casablanca-Settat,Infinity
+212664264069,2023-08-17,postpaid,active,Rabat-Salé-Kénitra,Starter
+212623756385,2023-08-01,postpaid,active,Oriental,Starter
+212722308302,2024-01-19,postpaid,active,Casablanca-Settat,Premium
+212622770333,2024-10-21,postpaid,active,Fès-Meknès,Starter
+212799139935,2023-08-31,postpaid,active,Rabat-Salé-Kénitra,Premium
+212764863027,2023-12-30,postpaid,active,Béni Mellal-Khénifra,Infinity
+212714870060,2025-01-12,postpaid,active,Fès-Meknès,Starter
+212712859744,2025-03-17,postpaid,active,Drâa-Tafilalet,Premium
+212765739022,2025-03-21,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212646843398,2024-04-20,postpaid,active,Marrakech-Safi,Starter
+212680824277,2024-05-03,postpaid,active,Fès-Meknès,Infinity
+212638746657,2023-07-21,postpaid,active,Guelmim-Oued Noun,Premium
+212785274817,2024-07-05,postpaid,active,Oriental,Premium
+212624957055,2024-06-08,postpaid,active,Drâa-Tafilalet,Starter
+212630661453,2023-11-23,postpaid,active,Guelmim-Oued Noun,Infinity
+212624432177,2024-08-22,postpaid,active,Fès-Meknès,Infinity
+212705085676,2023-10-20,postpaid,active,Rabat-Salé-Kénitra,Starter
+212701614887,2024-11-12,postpaid,active,Guelmim-Oued Noun,Premium
+212663900431,2023-12-20,postpaid,active,Oriental,Starter
+212738651806,2025-03-03,postpaid,active,Marrakech-Safi,Infinity
+212623570637,2023-06-13,postpaid,active,Guelmim-Oued Noun,Starter
+212762153004,2023-09-11,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212681797002,2024-06-08,postpaid,active,Rabat-Salé-Kénitra,Starter
+212705334511,2024-11-09,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212753606583,2025-03-18,postpaid,active,Béni Mellal-Khénifra,Starter
+212778562868,2025-01-13,postpaid,active,Rabat-Salé-Kénitra,Premium
+212631640350,2023-12-06,postpaid,active,Oriental,Infinity
+212721817898,2025-05-25,postpaid,active,Souss-Massa,Premium
+212745615098,2023-08-12,postpaid,active,Casablanca-Settat,Premium
+212715761604,2024-01-22,postpaid,active,Fès-Meknès,Starter
+212672693800,2024-06-12,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212712314466,2024-09-17,postpaid,active,Béni Mellal-Khénifra,Infinity
+212739714612,2023-12-23,postpaid,active,Casablanca-Settat,Starter
+212643656616,2025-06-08,postpaid,active,Drâa-Tafilalet,Starter
+212752271146,2024-07-01,postpaid,active,Guelmim-Oued Noun,Starter
+212700107630,2023-11-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212635055870,2024-04-19,postpaid,active,Marrakech-Safi,Premium
+212643384564,2023-10-31,postpaid,active,Rabat-Salé-Kénitra,Starter
+212721667355,2023-12-27,postpaid,active,Guelmim-Oued Noun,Starter
+212619973061,2023-09-20,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212754322718,2023-09-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212614616289,2025-05-20,postpaid,active,Marrakech-Safi,Premium
+212790011790,2023-11-28,postpaid,active,Marrakech-Safi,Premium
+212700969440,2024-01-06,postpaid,active,Fès-Meknès,Premium
+212725029711,2024-07-04,postpaid,active,Guelmim-Oued Noun,Infinity
+212731044359,2024-05-24,postpaid,active,Guelmim-Oued Noun,Starter
+212784736997,2024-12-31,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212751018246,2023-09-02,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212623739126,2024-05-05,postpaid,active,Casablanca-Settat,Premium
+212686075272,2024-04-01,postpaid,active,Oriental,Infinity
+212630465344,2024-03-31,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212647279449,2025-01-26,postpaid,active,Rabat-Salé-Kénitra,Premium
+212690197587,2023-07-27,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212730500658,2024-05-06,postpaid,active,Drâa-Tafilalet,Infinity
+212763892189,2023-09-05,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212624184935,2024-04-08,postpaid,active,Casablanca-Settat,Infinity
+212659127635,2024-04-22,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212675369921,2024-06-24,postpaid,active,Guelmim-Oued Noun,Starter
+212786128305,2023-11-09,postpaid,active,Guelmim-Oued Noun,Infinity
+212680255945,2024-12-22,postpaid,active,Casablanca-Settat,Premium
+212772464679,2024-07-20,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212790198789,2025-05-31,postpaid,active,Drâa-Tafilalet,Infinity
+212689891104,2024-02-14,postpaid,active,Rabat-Salé-Kénitra,Premium
+212721746550,2023-11-15,postpaid,active,Souss-Massa,Premium
+212636717268,2024-03-11,postpaid,active,Marrakech-Safi,Premium
+212689175391,2023-09-11,postpaid,active,Rabat-Salé-Kénitra,Premium
+212687550277,2025-06-01,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212738114870,2024-02-09,postpaid,active,Casablanca-Settat,Starter
+212788735349,2024-01-01,postpaid,active,Souss-Massa,Premium
+212698236906,2025-02-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212636305366,2023-10-05,postpaid,active,Casablanca-Settat,Infinity
+212687975199,2025-03-21,postpaid,active,Rabat-Salé-Kénitra,Starter
+212617370462,2024-07-03,postpaid,active,Drâa-Tafilalet,Starter
+212779847920,2025-03-28,postpaid,active,Marrakech-Safi,Premium
+212685376315,2024-09-09,postpaid,active,Béni Mellal-Khénifra,Premium
+212626387475,2024-05-31,postpaid,active,Casablanca-Settat,Premium
+212773616141,2023-08-07,postpaid,active,Souss-Massa,Premium
+212796723075,2023-07-30,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212788996368,2024-09-02,postpaid,active,Guelmim-Oued Noun,Premium
+212719180708,2023-09-24,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212687151403,2024-07-29,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212702227740,2023-09-28,postpaid,active,Béni Mellal-Khénifra,Premium
+212719157627,2023-06-30,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212614621974,2023-09-29,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212730466232,2024-02-06,postpaid,active,Guelmim-Oued Noun,Starter
+212709300369,2024-12-08,postpaid,active,Marrakech-Safi,Starter
+212725623950,2025-05-24,postpaid,active,Guelmim-Oued Noun,Premium
+212633058505,2025-06-04,postpaid,active,Oriental,Premium
+212786188339,2023-06-28,postpaid,active,Fès-Meknès,Infinity
+212657961578,2025-03-26,postpaid,active,Souss-Massa,Infinity
+212756956026,2024-04-18,postpaid,active,Souss-Massa,Infinity
+212788004244,2023-10-25,postpaid,active,Drâa-Tafilalet,Premium
+212671841418,2023-12-29,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212784888353,2023-06-10,postpaid,active,Fès-Meknès,Infinity
+212727018959,2023-06-12,postpaid,active,Guelmim-Oued Noun,Starter
+212737827776,2024-04-20,postpaid,active,Fès-Meknès,Premium
+212683500014,2024-12-19,postpaid,active,Fès-Meknès,Premium
+212771407686,2025-05-12,postpaid,active,Guelmim-Oued Noun,Infinity
+212753242131,2023-09-20,postpaid,active,Béni Mellal-Khénifra,Premium
+212718166802,2024-10-23,postpaid,active,Casablanca-Settat,Premium
+212622117895,2023-08-07,postpaid,active,Fès-Meknès,Infinity
+212654377869,2024-09-23,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212656178242,2025-04-29,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212652288894,2024-05-12,postpaid,active,Oriental,Premium
+212730524151,2023-08-18,postpaid,active,Marrakech-Safi,Starter
+212796363457,2023-12-19,postpaid,active,Oriental,Infinity
+212719470210,2024-09-02,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212647396971,2025-03-20,postpaid,active,Fès-Meknès,Premium
+212774893904,2025-03-04,postpaid,active,Drâa-Tafilalet,Infinity
+212745300603,2024-03-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212617770003,2023-12-20,postpaid,active,Marrakech-Safi,Infinity
+212681647369,2024-08-31,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212689265966,2025-06-08,postpaid,active,Marrakech-Safi,Premium
+212707892035,2024-09-21,postpaid,active,Rabat-Salé-Kénitra,Premium
+212732535602,2024-09-03,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212782261951,2025-03-12,postpaid,active,Casablanca-Settat,Infinity
+212691560287,2023-07-31,postpaid,active,Fès-Meknès,Premium
+212661822223,2025-05-01,postpaid,active,Oriental,Starter
+212660502347,2025-01-20,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212662853719,2024-07-19,postpaid,active,Béni Mellal-Khénifra,Starter
+212630490479,2024-01-15,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212732118451,2024-05-23,postpaid,active,Béni Mellal-Khénifra,Starter
+212669327986,2023-08-05,postpaid,active,Rabat-Salé-Kénitra,Premium
+212678185088,2024-12-02,postpaid,active,Drâa-Tafilalet,Infinity
+212799612469,2024-11-21,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212717162002,2023-06-14,postpaid,active,Marrakech-Safi,Premium
+212617644635,2023-09-18,postpaid,active,Casablanca-Settat,Premium
+212766628771,2024-05-06,postpaid,active,Rabat-Salé-Kénitra,Premium
+212648891158,2023-11-20,postpaid,active,Marrakech-Safi,Infinity
+212645290436,2025-03-19,postpaid,active,Drâa-Tafilalet,Starter
+212789570970,2023-07-05,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212712450974,2024-12-28,postpaid,active,Casablanca-Settat,Infinity
+212701634020,2024-06-12,postpaid,active,Drâa-Tafilalet,Starter
+212661426009,2024-03-23,postpaid,active,Oriental,Infinity
+212765695473,2023-07-14,postpaid,active,Oriental,Starter
+212667551274,2024-05-06,postpaid,active,Souss-Massa,Premium
+212793910423,2024-12-04,postpaid,active,Guelmim-Oued Noun,Infinity
+212753382348,2024-01-27,postpaid,active,Béni Mellal-Khénifra,Infinity
+212793468900,2024-04-04,postpaid,active,Guelmim-Oued Noun,Starter
+212788018607,2025-02-04,postpaid,active,Fès-Meknès,Starter
+212710731506,2023-08-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212673456020,2024-12-17,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212628431977,2024-01-06,postpaid,active,Oriental,Premium
+212712286538,2024-07-21,postpaid,active,Oriental,Premium
+212702310742,2024-08-30,postpaid,active,Guelmim-Oued Noun,Starter
+212736031763,2023-10-11,postpaid,active,Marrakech-Safi,Starter
+212642679018,2023-07-27,postpaid,active,Guelmim-Oued Noun,Infinity
+212664829476,2024-09-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212760675122,2023-12-25,postpaid,active,Marrakech-Safi,Premium
+212703702007,2025-05-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212640158189,2024-11-08,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212628896596,2024-07-29,postpaid,active,Marrakech-Safi,Starter
+212617726910,2025-05-21,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212693569905,2023-09-16,postpaid,active,Drâa-Tafilalet,Premium
+212747025391,2023-09-23,postpaid,active,Guelmim-Oued Noun,Starter
+212735223221,2024-04-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212625210031,2025-05-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212616217945,2024-01-10,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212799635342,2024-10-02,postpaid,active,Fès-Meknès,Premium
+212610497483,2023-10-04,postpaid,active,Souss-Massa,Starter
+212760291354,2024-02-24,postpaid,active,Drâa-Tafilalet,Infinity
+212791183995,2025-03-30,postpaid,active,Drâa-Tafilalet,Starter
+212628799287,2023-07-20,postpaid,active,Fès-Meknès,Infinity
+212638689709,2025-02-06,postpaid,active,Guelmim-Oued Noun,Premium
+212611376353,2025-03-09,postpaid,active,Marrakech-Safi,Infinity
+212667282454,2025-03-12,postpaid,active,Rabat-Salé-Kénitra,Premium
+212688276829,2023-08-17,postpaid,active,Marrakech-Safi,Starter
+212701381402,2024-06-19,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212771854755,2024-09-17,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212775823722,2023-10-05,postpaid,active,Casablanca-Settat,Starter
+212679871170,2024-05-12,postpaid,active,Drâa-Tafilalet,Infinity
+212706600944,2024-01-16,postpaid,active,Béni Mellal-Khénifra,Starter
+212609405715,2024-11-08,postpaid,active,Oriental,Premium
+212773952197,2024-05-06,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212794915002,2025-04-25,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212739142445,2023-09-29,postpaid,active,Oriental,Premium
+212730555407,2023-08-18,postpaid,active,Casablanca-Settat,Infinity
+212785751392,2024-06-20,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212749734903,2024-01-18,postpaid,active,Guelmim-Oued Noun,Starter
+212748452218,2024-03-01,postpaid,active,Rabat-Salé-Kénitra,Premium
+212668133187,2025-01-29,postpaid,active,Fès-Meknès,Infinity
+212719951332,2025-02-17,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212766695972,2024-03-04,postpaid,active,Drâa-Tafilalet,Infinity
+212641198496,2024-05-10,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212758730745,2025-03-27,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212796781552,2025-02-22,postpaid,active,Fès-Meknès,Infinity
+212769211058,2023-09-05,postpaid,active,Souss-Massa,Infinity
+212641754761,2025-05-27,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212708307739,2024-11-23,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212784280105,2024-01-18,postpaid,active,Casablanca-Settat,Premium
+212773118764,2023-06-11,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212783909889,2023-07-16,postpaid,active,Drâa-Tafilalet,Premium
+212712825053,2024-01-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212611948840,2024-12-26,postpaid,active,Drâa-Tafilalet,Infinity
+212700552257,2024-03-01,postpaid,active,Oriental,Starter
+212676526280,2023-06-19,postpaid,active,Guelmim-Oued Noun,Premium
+212774595058,2024-02-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212665910752,2025-01-09,postpaid,active,Drâa-Tafilalet,Starter
+212705357549,2024-02-16,postpaid,active,Casablanca-Settat,Premium
+212777932801,2023-08-22,postpaid,active,Drâa-Tafilalet,Infinity
+212626203494,2024-11-12,postpaid,active,Casablanca-Settat,Premium
+212794122738,2024-03-10,postpaid,active,Guelmim-Oued Noun,Starter
+212776954625,2024-03-04,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212660969113,2024-12-07,postpaid,active,Oriental,Starter
+212680011225,2025-02-03,postpaid,active,Marrakech-Safi,Infinity
+212719930130,2024-01-30,postpaid,active,Drâa-Tafilalet,Starter
+212686117059,2024-08-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212729322149,2024-12-16,postpaid,active,Béni Mellal-Khénifra,Infinity
+212673229129,2025-05-02,postpaid,active,Béni Mellal-Khénifra,Starter
+212613343008,2024-03-13,postpaid,active,Oriental,Starter
+212625634502,2024-12-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212650508290,2024-09-15,postpaid,active,Casablanca-Settat,Premium
+212793944645,2024-04-07,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212722300393,2025-04-04,postpaid,active,Rabat-Salé-Kénitra,Premium
+212668201748,2024-05-01,postpaid,active,Souss-Massa,Premium
+212724552744,2024-07-29,postpaid,active,Oriental,Infinity
+212779096973,2023-08-01,postpaid,active,Drâa-Tafilalet,Starter
+212785886205,2023-11-11,postpaid,active,Oriental,Infinity
+212795450739,2023-10-26,postpaid,active,Souss-Massa,Premium
+212780780266,2023-12-13,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212710533804,2025-04-07,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212700304332,2025-02-25,postpaid,active,Béni Mellal-Khénifra,Infinity
+212638962158,2024-07-02,postpaid,active,Rabat-Salé-Kénitra,Starter
+212775380267,2023-06-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212754158497,2024-09-18,postpaid,active,Rabat-Salé-Kénitra,Starter
+212618256288,2024-05-24,postpaid,active,Guelmim-Oued Noun,Premium
+212651333431,2024-11-30,postpaid,active,Casablanca-Settat,Infinity
+212683371406,2024-06-19,postpaid,active,Souss-Massa,Starter
+212739626506,2024-10-24,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212686477462,2023-12-17,postpaid,active,Béni Mellal-Khénifra,Premium
+212671778954,2024-03-26,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212713774854,2025-03-22,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212662822105,2023-07-12,postpaid,active,Drâa-Tafilalet,Infinity
+212722622861,2024-05-15,postpaid,active,Fès-Meknès,Starter
+212674391430,2023-09-20,postpaid,active,Souss-Massa,Starter
+212659707324,2024-04-27,postpaid,active,Casablanca-Settat,Premium
+212604156464,2024-03-19,postpaid,active,Fès-Meknès,Premium
+212745535167,2025-04-28,postpaid,active,Guelmim-Oued Noun,Premium
+212761801961,2024-06-08,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212765363689,2024-08-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212694852380,2023-09-15,postpaid,active,Béni Mellal-Khénifra,Infinity
+212620646478,2024-12-31,postpaid,active,Casablanca-Settat,Starter
+212621780368,2023-12-26,postpaid,active,Guelmim-Oued Noun,Starter
+212619244343,2023-12-26,postpaid,active,Fès-Meknès,Starter
+212660914926,2023-11-25,postpaid,active,Rabat-Salé-Kénitra,Premium
+212767072879,2024-01-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212769059525,2023-12-02,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212793826235,2024-01-04,postpaid,active,Béni Mellal-Khénifra,Starter
+212778655321,2023-10-10,postpaid,active,Marrakech-Safi,Premium
+212613755173,2023-06-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212600454339,2024-01-25,postpaid,active,Casablanca-Settat,Starter
+212769349611,2023-12-14,postpaid,active,Guelmim-Oued Noun,Starter
+212767645259,2023-10-13,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212706712080,2024-11-22,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212787594808,2023-10-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212680394600,2023-09-09,postpaid,active,Souss-Massa,Starter
+212628389538,2024-06-05,postpaid,active,Béni Mellal-Khénifra,Infinity
+212610379460,2023-11-24,postpaid,active,Casablanca-Settat,Starter
+212779141380,2025-06-02,postpaid,active,Fès-Meknès,Starter
+212714352168,2023-07-23,postpaid,active,Casablanca-Settat,Starter
+212780214427,2024-03-30,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212779738119,2023-07-05,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212764566766,2023-11-22,postpaid,active,Guelmim-Oued Noun,Starter
+212735744573,2023-07-21,postpaid,active,Guelmim-Oued Noun,Starter
+212778253879,2024-10-20,postpaid,active,Souss-Massa,Premium
+212658593050,2024-11-06,postpaid,active,Rabat-Salé-Kénitra,Starter
+212702971238,2024-08-11,postpaid,active,Drâa-Tafilalet,Starter
+212760306121,2023-06-20,postpaid,active,Casablanca-Settat,Starter
+212653283276,2025-04-07,postpaid,active,Casablanca-Settat,Starter
+212740172696,2024-12-10,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212622376858,2023-08-19,postpaid,active,Marrakech-Safi,Premium
+212731431239,2024-03-09,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212670596831,2024-01-06,postpaid,active,Guelmim-Oued Noun,Premium
+212793449992,2023-11-04,postpaid,active,Casablanca-Settat,Starter
+212760898370,2025-03-21,postpaid,active,Guelmim-Oued Noun,Infinity
+212607752229,2025-05-16,postpaid,active,Fès-Meknès,Premium
+212647619313,2024-04-03,postpaid,active,Casablanca-Settat,Starter
+212617393034,2024-07-08,postpaid,active,Guelmim-Oued Noun,Premium
+212677168477,2024-09-13,postpaid,active,Fès-Meknès,Premium
+212676166429,2024-07-24,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212736530817,2024-05-08,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212731570779,2025-02-04,postpaid,active,Guelmim-Oued Noun,Premium
+212727137647,2024-06-14,postpaid,active,Souss-Massa,Starter
+212723280078,2025-01-26,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212679131769,2025-02-04,postpaid,active,Marrakech-Safi,Infinity
+212702987500,2024-09-17,postpaid,active,Guelmim-Oued Noun,Infinity
+212698349688,2024-05-07,postpaid,active,Casablanca-Settat,Premium
+212774842353,2023-11-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212697575766,2024-03-15,postpaid,active,Fès-Meknès,Infinity
+212683096718,2024-04-12,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212603948570,2023-11-28,postpaid,active,Guelmim-Oued Noun,Premium
+212723501218,2025-05-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212696466005,2025-02-07,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212755741552,2023-07-24,postpaid,active,Béni Mellal-Khénifra,Infinity
+212624433752,2024-04-06,postpaid,active,Guelmim-Oued Noun,Infinity
+212647715571,2023-06-29,postpaid,active,Souss-Massa,Infinity
+212790654493,2023-10-16,postpaid,active,Oriental,Starter
+212766017768,2025-03-09,postpaid,active,Souss-Massa,Premium
+212645447788,2025-06-01,postpaid,active,Fès-Meknès,Starter
+212785420924,2024-09-10,postpaid,active,Fès-Meknès,Infinity
+212605274278,2023-08-18,postpaid,active,Rabat-Salé-Kénitra,Starter
+212738173743,2024-05-07,postpaid,active,Rabat-Salé-Kénitra,Starter
+212711981475,2024-03-11,postpaid,active,Guelmim-Oued Noun,Starter
+212703629442,2023-09-15,postpaid,active,Drâa-Tafilalet,Premium
+212698033482,2024-02-11,postpaid,active,Guelmim-Oued Noun,Starter
+212685441131,2025-02-26,postpaid,active,Fès-Meknès,Starter
+212799039764,2025-04-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212792214154,2023-11-26,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212721315386,2025-05-11,postpaid,active,Rabat-Salé-Kénitra,Premium
+212736582328,2024-06-30,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212653768467,2024-01-19,postpaid,active,Drâa-Tafilalet,Premium
+212773893331,2025-02-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212747015951,2023-09-02,postpaid,active,Casablanca-Settat,Infinity
+212714021853,2024-12-30,postpaid,active,Marrakech-Safi,Starter
+212654041362,2024-05-31,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212715823247,2025-01-10,postpaid,active,Guelmim-Oued Noun,Infinity
+212798196522,2024-11-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212719656257,2025-01-17,postpaid,active,Drâa-Tafilalet,Starter
+212756521176,2024-08-18,postpaid,active,Fès-Meknès,Infinity
+212600266581,2024-08-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212706061653,2024-05-01,postpaid,active,Fès-Meknès,Premium
+212795678095,2024-08-12,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212762017873,2024-01-15,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212630260880,2024-11-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212750528623,2023-11-04,postpaid,active,Oriental,Premium
+212650527340,2023-11-12,postpaid,active,Rabat-Salé-Kénitra,Premium
+212760456032,2024-12-22,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212731588719,2023-06-19,postpaid,active,Béni Mellal-Khénifra,Starter
+212616020338,2024-11-10,postpaid,active,Guelmim-Oued Noun,Premium
+212743264236,2025-06-03,postpaid,active,Marrakech-Safi,Premium
+212659444132,2025-02-26,postpaid,active,Rabat-Salé-Kénitra,Premium
+212773112989,2024-06-26,postpaid,active,Casablanca-Settat,Starter
+212688648889,2023-10-11,postpaid,active,Oriental,Premium
+212615096715,2025-04-15,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212753195556,2025-01-02,postpaid,active,Oriental,Infinity
+212758416556,2024-01-29,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212723241242,2024-08-06,postpaid,active,Fès-Meknès,Infinity
+212743898043,2024-11-29,postpaid,active,Casablanca-Settat,Infinity
+212638735106,2023-10-04,postpaid,active,Béni Mellal-Khénifra,Starter
+212647686237,2024-07-17,postpaid,active,Fès-Meknès,Infinity
+212618217964,2025-03-09,postpaid,active,Marrakech-Safi,Infinity
+212729714188,2025-02-03,postpaid,active,Fès-Meknès,Premium
+212671427530,2023-08-24,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212796800683,2024-01-18,postpaid,active,Marrakech-Safi,Infinity
+212616443649,2024-09-15,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212648214179,2024-09-17,postpaid,active,Béni Mellal-Khénifra,Starter
+212711542814,2024-05-11,postpaid,active,Drâa-Tafilalet,Infinity
+212623487758,2023-08-23,postpaid,active,Drâa-Tafilalet,Starter
+212627254600,2024-06-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212715334607,2024-08-17,postpaid,active,Rabat-Salé-Kénitra,Premium
+212689208987,2024-07-16,postpaid,active,Casablanca-Settat,Starter
+212789021100,2025-01-17,postpaid,active,Rabat-Salé-Kénitra,Starter
+212744975805,2024-07-15,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212778006693,2023-09-26,postpaid,active,Guelmim-Oued Noun,Starter
+212679653530,2023-08-28,postpaid,active,Oriental,Premium
+212747519818,2024-06-27,postpaid,active,Fès-Meknès,Starter
+212765329116,2023-06-17,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212767728169,2024-04-27,postpaid,active,Guelmim-Oued Noun,Starter
+212655279396,2025-01-06,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212751517373,2024-06-29,postpaid,active,Oriental,Starter
+212653098909,2024-03-02,postpaid,active,Souss-Massa,Infinity
+212773733774,2023-10-08,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212607507806,2024-07-26,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212765094531,2025-01-27,postpaid,active,Drâa-Tafilalet,Starter
+212786930562,2024-06-10,postpaid,active,Souss-Massa,Premium
+212779679964,2024-01-13,postpaid,active,Drâa-Tafilalet,Infinity
+212751813687,2024-09-27,postpaid,active,Casablanca-Settat,Infinity
+212772017956,2023-09-25,postpaid,active,Marrakech-Safi,Infinity
+212626409827,2023-08-04,postpaid,active,Guelmim-Oued Noun,Starter
+212737265904,2024-10-09,postpaid,active,Guelmim-Oued Noun,Starter
+212786247777,2024-04-02,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212694628369,2023-10-08,postpaid,active,Guelmim-Oued Noun,Infinity
+212672333224,2023-12-02,postpaid,active,Casablanca-Settat,Premium
+212717789368,2025-05-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212760989824,2024-08-16,postpaid,active,Guelmim-Oued Noun,Infinity
+212646232662,2024-01-29,postpaid,active,Rabat-Salé-Kénitra,Premium
+212685580473,2024-09-01,postpaid,active,Drâa-Tafilalet,Premium
+212744270958,2025-02-11,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212680150587,2025-04-05,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212653106963,2024-08-21,postpaid,active,Rabat-Salé-Kénitra,Premium
+212650115961,2024-12-22,postpaid,active,Drâa-Tafilalet,Premium
+212656520288,2025-03-13,postpaid,active,Béni Mellal-Khénifra,Premium
+212680769112,2023-08-22,postpaid,active,Béni Mellal-Khénifra,Premium
+212746714372,2024-04-19,postpaid,active,Guelmim-Oued Noun,Infinity
+212766171604,2023-11-02,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212684108688,2024-03-26,postpaid,active,Guelmim-Oued Noun,Starter
+212711687717,2025-03-27,postpaid,active,Béni Mellal-Khénifra,Starter
+212612075973,2024-09-14,postpaid,active,Oriental,Premium
+212749270174,2025-05-12,postpaid,active,Béni Mellal-Khénifra,Premium
+212778773022,2024-05-16,postpaid,active,Guelmim-Oued Noun,Premium
+212648654662,2024-01-04,postpaid,active,Guelmim-Oued Noun,Starter
+212684341850,2025-01-08,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212689780818,2024-09-11,postpaid,active,Oriental,Starter
+212792113469,2024-01-25,postpaid,active,Marrakech-Safi,Starter
+212775942618,2024-09-03,postpaid,active,Fès-Meknès,Premium
+212642424346,2023-10-25,postpaid,active,Souss-Massa,Premium
+212744139895,2025-01-25,postpaid,active,Oriental,Starter
+212685998149,2024-12-01,postpaid,active,Marrakech-Safi,Starter
+212629741444,2024-10-16,postpaid,active,Oriental,Infinity
+212711377841,2024-11-03,postpaid,active,Marrakech-Safi,Infinity
+212753888709,2023-11-15,postpaid,active,Fès-Meknès,Infinity
+212690480118,2023-08-04,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212677548675,2024-06-20,postpaid,active,Oriental,Premium
+212725178720,2024-08-04,postpaid,active,Oriental,Premium
+212696976140,2024-06-10,postpaid,active,Casablanca-Settat,Infinity
+212714257561,2024-03-24,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212709388875,2023-11-24,postpaid,active,Fès-Meknès,Infinity
+212750223296,2024-06-26,postpaid,active,Béni Mellal-Khénifra,Infinity
+212645230686,2024-12-10,postpaid,active,Casablanca-Settat,Infinity
+212686015533,2023-09-12,postpaid,active,Drâa-Tafilalet,Starter
+212628860223,2024-11-26,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212777813103,2024-09-07,postpaid,active,Souss-Massa,Premium
+212735477349,2024-10-02,postpaid,active,Oriental,Starter
+212778507319,2025-04-07,postpaid,active,Guelmim-Oued Noun,Starter
+212687734225,2023-09-04,postpaid,active,Marrakech-Safi,Premium
+212641092984,2023-08-23,postpaid,active,Souss-Massa,Premium
+212748977141,2024-06-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212733543518,2024-03-07,postpaid,active,Marrakech-Safi,Infinity
+212664881851,2024-08-16,postpaid,active,Béni Mellal-Khénifra,Infinity
+212715041941,2024-05-01,postpaid,active,Béni Mellal-Khénifra,Premium
+212640769136,2025-02-10,postpaid,active,Casablanca-Settat,Premium
+212725300877,2023-10-18,postpaid,active,Casablanca-Settat,Premium
+212633732120,2025-04-07,postpaid,active,Souss-Massa,Starter
+212620298599,2025-01-15,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212763091158,2025-01-24,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212755901976,2024-03-15,postpaid,active,Souss-Massa,Premium
+212790840094,2024-11-26,postpaid,active,Fès-Meknès,Starter
+212648584608,2024-08-12,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212631387520,2025-05-09,postpaid,active,Béni Mellal-Khénifra,Infinity
+212619753166,2025-01-30,postpaid,active,Drâa-Tafilalet,Infinity
+212714574468,2025-01-26,postpaid,active,Souss-Massa,Starter
+212795998632,2025-03-05,postpaid,active,Oriental,Premium
+212787739430,2024-09-27,postpaid,active,Béni Mellal-Khénifra,Infinity
+212687976087,2023-08-12,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212700966759,2023-07-27,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212649843316,2024-07-13,postpaid,active,Rabat-Salé-Kénitra,Starter
+212609772299,2024-06-11,postpaid,active,Oriental,Premium
+212625293562,2024-09-30,postpaid,active,Guelmim-Oued Noun,Premium
+212792909916,2024-11-03,postpaid,active,Souss-Massa,Starter
+212719887306,2023-11-12,postpaid,active,Guelmim-Oued Noun,Starter
+212658141599,2024-02-22,postpaid,active,Guelmim-Oued Noun,Starter
+212729506786,2024-08-25,postpaid,active,Casablanca-Settat,Starter
+212660476779,2025-06-06,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212662748761,2024-01-23,postpaid,active,Oriental,Starter
+212663863830,2024-08-25,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212680835265,2024-10-18,postpaid,active,Drâa-Tafilalet,Premium
+212610882474,2024-07-07,postpaid,active,Casablanca-Settat,Infinity
+212690685488,2024-08-16,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212773138815,2025-04-15,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212744406821,2024-05-14,postpaid,active,Drâa-Tafilalet,Starter
+212607613445,2025-04-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212774515851,2023-08-25,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212721407453,2024-02-01,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212797250221,2024-01-20,postpaid,active,Oriental,Starter
+212735303995,2023-12-17,postpaid,active,Guelmim-Oued Noun,Infinity
+212776103094,2023-12-10,postpaid,active,Fès-Meknès,Premium
+212665117037,2023-08-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212700160494,2024-06-28,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212797245705,2024-10-30,postpaid,active,Béni Mellal-Khénifra,Starter
+212720800010,2024-06-21,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212644978430,2024-02-17,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212761511950,2025-01-22,postpaid,active,Souss-Massa,Starter
+212738187504,2024-04-07,postpaid,active,Oriental,Infinity
+212770985989,2023-07-14,postpaid,active,Oriental,Premium
+212754229914,2025-04-24,postpaid,active,Souss-Massa,Premium
+212792858987,2024-09-29,postpaid,active,Souss-Massa,Infinity
+212604854274,2024-07-26,postpaid,active,Béni Mellal-Khénifra,Infinity
+212601423936,2024-10-29,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212707659050,2024-05-28,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212703955751,2024-10-05,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212623344716,2024-09-05,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212777657034,2024-12-27,postpaid,active,Drâa-Tafilalet,Starter
+212736604044,2024-05-04,postpaid,active,Drâa-Tafilalet,Starter
+212617942523,2023-11-21,postpaid,active,Oriental,Infinity
+212786557189,2024-11-10,postpaid,active,Souss-Massa,Starter
+212726233991,2024-04-18,postpaid,active,Guelmim-Oued Noun,Infinity
+212783598585,2023-12-11,postpaid,active,Oriental,Infinity
+212637370900,2024-03-12,postpaid,active,Marrakech-Safi,Infinity
+212779553585,2025-01-04,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212611351647,2024-11-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212771143394,2024-10-11,postpaid,active,Marrakech-Safi,Premium
+212639811997,2023-08-19,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212702840464,2024-06-02,postpaid,active,Marrakech-Safi,Starter
+212655579965,2024-11-03,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212624452751,2025-04-22,postpaid,active,Souss-Massa,Premium
+212714857817,2024-11-30,postpaid,active,Béni Mellal-Khénifra,Infinity
+212751406854,2024-05-24,postpaid,active,Fès-Meknès,Premium
+212600322948,2024-10-18,postpaid,active,Béni Mellal-Khénifra,Premium
+212680011113,2023-12-20,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212701138426,2025-06-06,postpaid,active,Rabat-Salé-Kénitra,Starter
+212655190686,2023-07-15,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212792911083,2024-07-10,postpaid,active,Casablanca-Settat,Premium
+212688448236,2024-02-10,postpaid,active,Guelmim-Oued Noun,Starter
+212718516742,2023-08-31,postpaid,active,Souss-Massa,Infinity
+212607107459,2024-09-06,postpaid,active,Béni Mellal-Khénifra,Starter
+212727595608,2023-08-07,postpaid,active,Drâa-Tafilalet,Starter
+212775105951,2023-10-31,postpaid,active,Drâa-Tafilalet,Premium
+212612057786,2024-04-02,postpaid,active,Fès-Meknès,Premium
+212612829884,2025-02-03,postpaid,active,Casablanca-Settat,Premium
+212792170599,2024-09-01,postpaid,active,Oriental,Starter
+212701570415,2023-10-24,postpaid,active,Oriental,Premium
+212606722220,2025-04-08,postpaid,active,Fès-Meknès,Starter
+212677658246,2024-03-08,postpaid,active,Oriental,Infinity
+212697481637,2024-06-03,postpaid,active,Guelmim-Oued Noun,Starter
+212609421562,2024-07-26,postpaid,active,Oriental,Infinity
+212641542927,2024-01-06,postpaid,active,Béni Mellal-Khénifra,Starter
+212621814930,2025-05-20,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212706109978,2023-11-25,postpaid,active,Souss-Massa,Starter
+212652687212,2024-06-24,postpaid,active,Oriental,Starter
+212749595028,2024-12-21,postpaid,active,Souss-Massa,Premium
+212740439798,2023-12-03,postpaid,active,Rabat-Salé-Kénitra,Starter
+212749843546,2025-02-16,postpaid,active,Rabat-Salé-Kénitra,Premium
+212703086448,2023-10-09,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212771824385,2024-07-03,postpaid,active,Fès-Meknès,Premium
+212671900492,2025-02-14,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212714414474,2025-05-06,postpaid,active,Fès-Meknès,Starter
+212791408367,2023-12-07,postpaid,active,Guelmim-Oued Noun,Premium
+212767429598,2024-04-08,postpaid,active,Casablanca-Settat,Infinity
+212695630934,2025-05-07,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212630502777,2025-06-02,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212635046696,2023-08-06,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212778752115,2024-01-20,postpaid,active,Fès-Meknès,Infinity
+212711906411,2024-06-23,postpaid,active,Guelmim-Oued Noun,Starter
+212724594859,2024-02-07,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212694047610,2024-06-14,postpaid,active,Rabat-Salé-Kénitra,Starter
+212640272685,2023-11-11,postpaid,active,Souss-Massa,Premium
+212726579005,2024-12-19,postpaid,active,Casablanca-Settat,Starter
+212711826028,2023-10-13,postpaid,active,Rabat-Salé-Kénitra,Starter
+212612757304,2025-03-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212787824050,2024-06-01,postpaid,active,Drâa-Tafilalet,Premium
+212745544336,2024-05-02,postpaid,active,Fès-Meknès,Starter
+212769376214,2024-04-25,postpaid,active,Marrakech-Safi,Starter
+212725187624,2023-09-16,postpaid,active,Fès-Meknès,Infinity
+212649835023,2024-01-19,postpaid,active,Souss-Massa,Infinity
+212784055551,2025-04-23,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212679407195,2023-11-09,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212787365042,2024-06-29,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212682117445,2024-03-08,postpaid,active,Béni Mellal-Khénifra,Premium
+212635710505,2025-03-04,postpaid,active,Marrakech-Safi,Starter
+212773919932,2025-01-02,postpaid,active,Oriental,Starter
+212709061859,2024-07-24,postpaid,active,Béni Mellal-Khénifra,Premium
+212684848351,2025-05-15,postpaid,active,Fès-Meknès,Starter
+212790084806,2023-09-19,postpaid,active,Drâa-Tafilalet,Premium
+212795447327,2024-12-08,postpaid,active,Drâa-Tafilalet,Infinity
+212775155649,2024-08-16,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212675715739,2024-11-09,postpaid,active,Béni Mellal-Khénifra,Starter
+212756013874,2023-08-20,postpaid,active,Casablanca-Settat,Premium
+212606263460,2024-08-05,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212720988956,2024-05-01,postpaid,active,Souss-Massa,Premium
+212685708017,2025-04-19,postpaid,active,Guelmim-Oued Noun,Premium
+212684080266,2023-09-18,postpaid,active,Marrakech-Safi,Starter
+212685639469,2023-08-19,postpaid,active,Souss-Massa,Infinity
+212673846557,2025-02-10,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212672288204,2024-10-30,postpaid,active,Marrakech-Safi,Premium
+212785635291,2025-02-24,postpaid,active,Casablanca-Settat,Starter
+212760568368,2024-07-15,postpaid,active,Guelmim-Oued Noun,Starter
+212665049889,2024-02-18,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212726622663,2025-05-02,postpaid,active,Souss-Massa,Premium
+212666462815,2024-08-02,postpaid,active,Oriental,Infinity
+212734173871,2024-09-07,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212767019620,2024-10-29,postpaid,active,Rabat-Salé-Kénitra,Premium
+212625067622,2025-06-08,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212758218404,2024-11-12,postpaid,active,Béni Mellal-Khénifra,Starter
+212688691816,2024-04-30,postpaid,active,Guelmim-Oued Noun,Infinity
+212750825444,2023-12-10,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212761458552,2025-04-03,postpaid,active,Oriental,Premium
+212624266134,2025-01-15,postpaid,active,Oriental,Starter
+212739031970,2024-02-02,postpaid,active,Guelmim-Oued Noun,Infinity
+212603861574,2024-05-07,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212678233464,2024-09-18,postpaid,active,Marrakech-Safi,Starter
+212614644504,2024-06-24,postpaid,active,Casablanca-Settat,Premium
+212684298764,2024-04-24,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212611744191,2025-02-15,postpaid,active,Drâa-Tafilalet,Premium
+212624647236,2023-06-09,postpaid,active,Drâa-Tafilalet,Starter
+212600435003,2023-12-13,postpaid,active,Oriental,Infinity
+212645805894,2025-05-20,postpaid,active,Oriental,Starter
+212654272225,2024-10-19,postpaid,active,Souss-Massa,Infinity
+212612356298,2023-10-05,postpaid,active,Marrakech-Safi,Premium
+212687205861,2024-05-28,postpaid,active,Oriental,Starter
+212727364845,2023-07-24,postpaid,active,Drâa-Tafilalet,Infinity
+212606086271,2024-12-11,postpaid,active,Béni Mellal-Khénifra,Premium
+212712030610,2025-03-24,postpaid,active,Guelmim-Oued Noun,Premium
+212790309404,2024-01-05,postpaid,active,Marrakech-Safi,Starter
+212735739717,2024-02-03,postpaid,active,Souss-Massa,Starter
+212715317578,2023-12-26,postpaid,active,Oriental,Infinity
+212742783041,2024-09-08,postpaid,active,Fès-Meknès,Premium
+212643509772,2023-07-29,postpaid,active,Oriental,Infinity
+212760740211,2023-08-29,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212694562734,2025-04-03,postpaid,active,Marrakech-Safi,Starter
+212671630058,2024-08-17,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212788268968,2023-12-26,postpaid,active,Rabat-Salé-Kénitra,Premium
+212613429389,2024-09-29,postpaid,active,Béni Mellal-Khénifra,Premium
+212735882458,2025-06-04,postpaid,active,Souss-Massa,Premium
+212680844845,2024-03-16,postpaid,active,Oriental,Infinity
+212789283153,2024-09-30,postpaid,active,Drâa-Tafilalet,Infinity
+212613886164,2023-11-20,postpaid,active,Drâa-Tafilalet,Starter
+212604962616,2024-06-23,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212696448464,2023-07-03,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212666599461,2025-01-29,postpaid,active,Marrakech-Safi,Starter
+212607145932,2024-05-30,postpaid,active,Souss-Massa,Premium
+212612547622,2025-01-21,postpaid,active,Souss-Massa,Premium
+212670011496,2023-08-10,postpaid,active,Béni Mellal-Khénifra,Infinity
+212780547797,2024-04-23,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212678269553,2025-01-09,postpaid,active,Souss-Massa,Infinity
+212761790463,2023-07-05,postpaid,active,Fès-Meknès,Premium
+212723491829,2024-04-02,postpaid,active,Marrakech-Safi,Infinity
+212679457845,2025-05-06,postpaid,active,Guelmim-Oued Noun,Infinity
+212607124876,2025-01-11,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212608427421,2025-01-24,postpaid,active,Drâa-Tafilalet,Infinity
+212632635583,2024-02-16,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212719680588,2024-02-09,postpaid,active,Béni Mellal-Khénifra,Premium
+212639611048,2025-04-12,postpaid,active,Guelmim-Oued Noun,Premium
+212644418628,2024-01-23,postpaid,active,Fès-Meknès,Infinity
+212735326294,2023-09-20,postpaid,active,Oriental,Premium
+212779832966,2024-09-24,postpaid,active,Fès-Meknès,Premium
+212726766025,2024-07-21,postpaid,active,Fès-Meknès,Premium
+212628072118,2025-03-10,postpaid,active,Casablanca-Settat,Infinity
+212615404784,2024-02-10,postpaid,active,Drâa-Tafilalet,Infinity
+212743427766,2024-08-13,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212663543297,2024-02-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212632315995,2023-10-02,postpaid,active,Souss-Massa,Infinity
+212745352474,2024-08-29,postpaid,active,Guelmim-Oued Noun,Starter
+212674011520,2025-03-15,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212731193335,2025-06-08,postpaid,active,Oriental,Starter
+212661143329,2024-05-05,postpaid,active,Béni Mellal-Khénifra,Infinity
+212628486179,2023-12-02,postpaid,active,Rabat-Salé-Kénitra,Starter
+212671431359,2023-10-29,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212748243728,2024-02-04,postpaid,active,Oriental,Infinity
+212785824784,2023-09-10,postpaid,active,Béni Mellal-Khénifra,Infinity
+212770336728,2025-01-22,postpaid,active,Béni Mellal-Khénifra,Premium
+212638728655,2024-10-10,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212692248017,2024-07-01,postpaid,active,Casablanca-Settat,Premium
+212607064547,2024-11-08,postpaid,active,Guelmim-Oued Noun,Premium
+212675326527,2024-01-20,postpaid,active,Marrakech-Safi,Infinity
+212783475686,2023-08-27,postpaid,active,Casablanca-Settat,Starter
+212700748623,2023-06-30,postpaid,active,Drâa-Tafilalet,Starter
+212777460226,2025-03-16,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212645944803,2023-06-27,postpaid,active,Drâa-Tafilalet,Premium
+212641214822,2025-05-28,postpaid,active,Souss-Massa,Premium
+212719020106,2024-07-29,postpaid,active,Casablanca-Settat,Starter
+212740624064,2025-05-06,postpaid,active,Oriental,Starter
+212735921328,2025-01-29,postpaid,active,Casablanca-Settat,Premium
+212663001864,2024-08-09,postpaid,active,Drâa-Tafilalet,Infinity
+212613636287,2025-01-20,postpaid,active,Guelmim-Oued Noun,Infinity
+212642339403,2023-12-24,postpaid,active,Guelmim-Oued Noun,Infinity
+212794227850,2023-12-01,postpaid,active,Souss-Massa,Premium
+212679085714,2024-01-11,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212742314066,2024-07-27,postpaid,active,Casablanca-Settat,Starter
+212695927058,2024-08-04,postpaid,active,Guelmim-Oued Noun,Infinity
+212737114575,2023-09-18,postpaid,active,Béni Mellal-Khénifra,Infinity
+212611401614,2024-10-05,postpaid,active,Fès-Meknès,Premium
+212608223808,2023-08-14,postpaid,active,Casablanca-Settat,Premium
+212728347756,2024-11-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212606906095,2023-11-27,postpaid,active,Drâa-Tafilalet,Starter
+212728262776,2025-02-12,postpaid,active,Casablanca-Settat,Starter
+212707653136,2024-01-24,postpaid,active,Oriental,Infinity
+212684575451,2023-06-12,postpaid,active,Souss-Massa,Premium
+212778557055,2023-12-21,postpaid,active,Fès-Meknès,Infinity
+212793948774,2023-08-14,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212605607368,2025-01-18,postpaid,active,Fès-Meknès,Starter
+212678502582,2024-02-10,postpaid,active,Drâa-Tafilalet,Starter
+212700943384,2023-12-11,postpaid,active,Oriental,Infinity
+212749759105,2024-09-12,postpaid,active,Béni Mellal-Khénifra,Premium
+212619071008,2025-01-30,postpaid,active,Oriental,Premium
+212723366492,2024-03-22,postpaid,active,Guelmim-Oued Noun,Premium
+212638735522,2024-03-28,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212745072060,2023-09-09,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212787146245,2024-04-11,postpaid,active,Rabat-Salé-Kénitra,Premium
+212779433859,2023-11-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212707735074,2024-02-05,postpaid,active,Drâa-Tafilalet,Premium
+212736446607,2024-12-15,postpaid,active,Rabat-Salé-Kénitra,Starter
+212718483516,2024-10-07,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212763694821,2023-07-10,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212782047990,2024-03-10,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212710657480,2025-02-11,postpaid,active,Marrakech-Safi,Premium
+212750005009,2024-04-20,postpaid,active,Béni Mellal-Khénifra,Starter
+212627621211,2025-05-27,postpaid,active,Marrakech-Safi,Infinity
+212759566250,2024-02-21,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212797325336,2024-01-05,postpaid,active,Marrakech-Safi,Premium
+212629927885,2023-12-11,postpaid,active,Fès-Meknès,Starter
+212706029940,2024-02-21,postpaid,active,Marrakech-Safi,Starter
+212686327891,2024-10-30,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212720894140,2025-02-04,postpaid,active,Fès-Meknès,Starter
+212771148353,2025-02-25,postpaid,active,Marrakech-Safi,Infinity
+212622573669,2024-01-30,postpaid,active,Casablanca-Settat,Starter
+212782703964,2023-06-25,postpaid,active,Drâa-Tafilalet,Premium
+212600516167,2024-11-16,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212684561540,2023-11-21,postpaid,active,Guelmim-Oued Noun,Infinity
+212667883500,2024-10-23,postpaid,active,Oriental,Premium
+212664468240,2024-03-20,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212797327451,2025-05-21,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212723862025,2025-01-19,postpaid,active,Drâa-Tafilalet,Infinity
+212791937033,2023-11-21,postpaid,active,Oriental,Premium
+212633302130,2023-12-13,postpaid,active,Béni Mellal-Khénifra,Infinity
+212666144547,2024-11-02,postpaid,active,Rabat-Salé-Kénitra,Starter
+212652529970,2023-11-24,postpaid,active,Guelmim-Oued Noun,Premium
+212663986036,2023-08-08,postpaid,active,Fès-Meknès,Starter
+212620248303,2024-02-03,postpaid,active,Casablanca-Settat,Infinity
+212640743405,2024-08-15,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212781969755,2025-06-04,postpaid,active,Souss-Massa,Starter
+212738709755,2025-01-13,postpaid,active,Béni Mellal-Khénifra,Starter
+212661246868,2024-04-03,postpaid,active,Drâa-Tafilalet,Infinity
+212698532090,2024-10-25,postpaid,active,Fès-Meknès,Infinity
+212720413937,2024-11-10,postpaid,active,Souss-Massa,Infinity
+212614473553,2024-04-02,postpaid,active,Casablanca-Settat,Premium
+212641935144,2025-02-16,postpaid,active,Béni Mellal-Khénifra,Infinity
+212761428370,2024-10-05,postpaid,active,Drâa-Tafilalet,Infinity
+212727164154,2024-09-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212766739691,2023-10-13,postpaid,active,Fès-Meknès,Starter
+212717407098,2024-03-13,postpaid,active,Fès-Meknès,Infinity
+212689969911,2024-01-05,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212675369809,2023-11-30,postpaid,active,Casablanca-Settat,Starter
+212786713355,2025-02-16,postpaid,active,Oriental,Starter
+212654524433,2023-10-18,postpaid,active,Drâa-Tafilalet,Premium
+212715125390,2024-05-23,postpaid,active,Guelmim-Oued Noun,Infinity
+212786895353,2025-05-10,postpaid,active,Guelmim-Oued Noun,Infinity
+212761656197,2024-06-27,postpaid,active,Casablanca-Settat,Infinity
+212775260861,2024-11-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212688707773,2023-08-29,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212616213321,2024-02-19,postpaid,active,Marrakech-Safi,Premium
+212600799165,2023-12-28,postpaid,active,Fès-Meknès,Premium
+212640850681,2024-10-05,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212664625045,2024-05-14,postpaid,active,Guelmim-Oued Noun,Premium
+212686548681,2023-10-17,postpaid,active,Oriental,Starter
+212703320416,2024-07-10,postpaid,active,Souss-Massa,Starter
+212608031750,2023-09-22,postpaid,active,Guelmim-Oued Noun,Starter
+212633013070,2024-03-24,postpaid,active,Souss-Massa,Starter
+212608246717,2024-09-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212620462696,2025-06-05,postpaid,active,Souss-Massa,Infinity
+212722577252,2024-09-17,postpaid,active,Casablanca-Settat,Infinity
+212749503924,2023-07-03,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212662533548,2024-11-21,postpaid,active,Drâa-Tafilalet,Starter
+212788618236,2024-11-23,postpaid,active,Souss-Massa,Premium
+212639907742,2023-06-21,postpaid,active,Fès-Meknès,Infinity
+212746944052,2024-05-02,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212793387308,2024-05-13,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212603822686,2025-05-23,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212618590081,2025-02-01,postpaid,active,Casablanca-Settat,Infinity
+212626251622,2023-10-20,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212791741651,2023-09-02,postpaid,active,Oriental,Premium
+212717317001,2024-01-20,postpaid,active,Rabat-Salé-Kénitra,Premium
+212661189371,2024-02-06,postpaid,active,Rabat-Salé-Kénitra,Premium
+212777015471,2025-04-05,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212704084026,2023-09-08,postpaid,active,Casablanca-Settat,Infinity
+212676000529,2023-10-22,postpaid,active,Souss-Massa,Premium
+212649853948,2024-03-17,postpaid,active,Rabat-Salé-Kénitra,Premium
+212720809224,2024-10-18,postpaid,active,Béni Mellal-Khénifra,Premium
+212752993737,2023-07-13,postpaid,active,Rabat-Salé-Kénitra,Premium
+212728781321,2025-02-22,postpaid,active,Guelmim-Oued Noun,Infinity
+212648630638,2024-12-04,postpaid,active,Fès-Meknès,Infinity
+212718560158,2024-09-05,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212718617062,2025-01-13,postpaid,active,Oriental,Starter
+212684773999,2025-01-26,postpaid,active,Drâa-Tafilalet,Starter
+212632762517,2023-06-21,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212774759239,2024-09-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212648635744,2024-08-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212695290603,2024-04-02,postpaid,active,Casablanca-Settat,Premium
+212751517113,2023-11-22,postpaid,active,Souss-Massa,Premium
+212607145271,2024-02-12,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212740563753,2024-09-16,postpaid,active,Oriental,Premium
+212721363704,2024-05-24,postpaid,active,Guelmim-Oued Noun,Premium
+212725138315,2024-11-16,postpaid,active,Marrakech-Safi,Starter
+212677222872,2024-12-25,postpaid,active,Casablanca-Settat,Starter
+212679148402,2023-12-11,postpaid,active,Béni Mellal-Khénifra,Starter
+212630614185,2025-05-06,postpaid,active,Fès-Meknès,Starter
+212678239331,2023-10-14,postpaid,active,Souss-Massa,Starter
+212663640787,2024-12-16,postpaid,active,Souss-Massa,Infinity
+212745211823,2023-10-29,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212635980202,2024-12-23,postpaid,active,Rabat-Salé-Kénitra,Starter
+212703912805,2023-09-19,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212738347371,2024-11-04,postpaid,active,Oriental,Infinity
+212728173983,2024-08-21,postpaid,active,Rabat-Salé-Kénitra,Premium
+212744392197,2025-04-25,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212772044315,2024-09-08,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212786516252,2024-08-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212671868227,2023-07-01,postpaid,active,Souss-Massa,Infinity
+212601935091,2023-07-11,postpaid,active,Casablanca-Settat,Infinity
+212751654651,2024-10-03,postpaid,active,Casablanca-Settat,Infinity
+212668838272,2025-06-07,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212765284799,2025-04-19,postpaid,active,Béni Mellal-Khénifra,Starter
+212605615292,2024-03-26,postpaid,active,Drâa-Tafilalet,Premium
+212691921419,2025-03-19,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212674492224,2024-05-13,postpaid,active,Guelmim-Oued Noun,Infinity
+212644291142,2023-10-31,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212763589995,2024-08-26,postpaid,active,Oriental,Infinity
+212675528441,2023-10-15,postpaid,active,Marrakech-Safi,Infinity
+212772910234,2024-08-04,postpaid,active,Béni Mellal-Khénifra,Premium
+212704412479,2024-02-20,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212707578343,2024-09-06,postpaid,active,Drâa-Tafilalet,Starter
+212787495519,2024-07-27,postpaid,active,Drâa-Tafilalet,Starter
+212650159808,2024-12-24,postpaid,active,Drâa-Tafilalet,Premium
+212733235200,2025-04-14,postpaid,active,Rabat-Salé-Kénitra,Premium
+212642138480,2024-09-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212693807216,2025-02-13,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212658151241,2024-03-30,postpaid,active,Béni Mellal-Khénifra,Starter
+212654511747,2025-02-11,postpaid,active,Souss-Massa,Premium
+212650611706,2024-10-04,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212698254048,2024-12-03,postpaid,active,Casablanca-Settat,Infinity
+212792553552,2023-10-22,postpaid,active,Guelmim-Oued Noun,Infinity
+212621350233,2023-08-10,postpaid,active,Marrakech-Safi,Infinity
+212610632248,2024-08-18,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212790096525,2023-12-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212706715853,2025-02-10,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212731146700,2024-11-28,postpaid,active,Souss-Massa,Starter
+212798553780,2024-07-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212782027926,2024-11-12,postpaid,active,Marrakech-Safi,Infinity
+212704082637,2025-04-03,postpaid,active,Rabat-Salé-Kénitra,Premium
+212777747383,2024-04-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212783748161,2023-08-02,postpaid,active,Guelmim-Oued Noun,Infinity
+212773289461,2023-07-20,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212663711085,2025-05-19,postpaid,active,Fès-Meknès,Premium
+212757426837,2024-11-20,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212708899599,2024-10-01,postpaid,active,Casablanca-Settat,Infinity
+212731325439,2024-12-17,postpaid,active,Béni Mellal-Khénifra,Infinity
+212711877740,2025-02-26,postpaid,active,Marrakech-Safi,Infinity
+212788204437,2024-04-15,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212626508644,2025-02-20,postpaid,active,Béni Mellal-Khénifra,Infinity
+212606712302,2023-06-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212638689148,2023-06-12,postpaid,active,Fès-Meknès,Premium
+212638696999,2025-03-30,postpaid,active,Casablanca-Settat,Starter
+212678018203,2023-08-01,postpaid,active,Souss-Massa,Starter
+212745862667,2024-10-29,postpaid,active,Casablanca-Settat,Infinity
+212716433319,2024-06-28,postpaid,active,Drâa-Tafilalet,Premium
+212771113330,2023-09-12,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212717240157,2025-04-06,postpaid,active,Casablanca-Settat,Premium
+212717404662,2023-07-07,postpaid,active,Oriental,Infinity
+212744719805,2023-10-26,postpaid,active,Rabat-Salé-Kénitra,Starter
+212661297215,2024-07-16,postpaid,active,Fès-Meknès,Starter
+212711385967,2024-10-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212671163057,2025-05-17,postpaid,active,Guelmim-Oued Noun,Premium
+212614181034,2024-06-05,postpaid,active,Drâa-Tafilalet,Infinity
+212791887687,2024-05-25,postpaid,active,Béni Mellal-Khénifra,Infinity
+212744870775,2024-05-24,postpaid,active,Béni Mellal-Khénifra,Infinity
+212639821857,2024-12-25,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212750665152,2025-04-23,postpaid,active,Oriental,Starter
+212709496892,2025-05-23,postpaid,active,Guelmim-Oued Noun,Starter
+212707404719,2024-01-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212752903841,2025-04-17,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212766229936,2023-09-21,postpaid,active,Rabat-Salé-Kénitra,Premium
+212756571877,2025-01-06,postpaid,active,Souss-Massa,Starter
+212714371296,2024-01-28,postpaid,active,Casablanca-Settat,Starter
+212683997567,2024-05-04,postpaid,active,Rabat-Salé-Kénitra,Starter
+212610406362,2024-01-21,postpaid,active,Fès-Meknès,Infinity
+212719487060,2023-08-10,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212722741597,2023-07-01,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212674140527,2024-08-26,postpaid,active,Casablanca-Settat,Infinity
+212731344835,2023-12-15,postpaid,active,Oriental,Premium
+212702924199,2023-08-28,postpaid,active,Fès-Meknès,Infinity
+212667607785,2024-05-03,postpaid,active,Guelmim-Oued Noun,Premium
+212687385149,2024-08-03,postpaid,active,Rabat-Salé-Kénitra,Starter
+212696997368,2024-10-21,postpaid,active,Casablanca-Settat,Starter
+212740297760,2024-01-30,postpaid,active,Marrakech-Safi,Infinity
+212705528894,2023-10-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212715962076,2023-12-10,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212607347331,2024-08-03,postpaid,active,Fès-Meknès,Premium
+212726729720,2024-03-01,postpaid,active,Rabat-Salé-Kénitra,Premium
+212616119954,2024-03-19,postpaid,active,Fès-Meknès,Premium
+212619906653,2024-02-29,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212626252180,2024-03-27,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212689406635,2024-07-21,postpaid,active,Oriental,Infinity
+212745419470,2024-03-29,postpaid,active,Oriental,Infinity
+212650513275,2024-08-04,postpaid,active,Guelmim-Oued Noun,Premium
+212757665905,2024-09-16,postpaid,active,Guelmim-Oued Noun,Infinity
+212647808408,2025-05-22,postpaid,active,Drâa-Tafilalet,Starter
+212740977498,2024-10-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212771038281,2023-08-10,postpaid,active,Oriental,Starter
+212610024884,2025-01-16,postpaid,active,Marrakech-Safi,Starter
+212703565741,2023-12-14,postpaid,active,Guelmim-Oued Noun,Infinity
+212712063934,2024-12-27,postpaid,active,Fès-Meknès,Premium
+212611688705,2024-05-15,postpaid,active,Souss-Massa,Starter
+212709590011,2025-04-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212790930881,2024-11-12,postpaid,active,Drâa-Tafilalet,Starter
+212754639048,2025-03-25,postpaid,active,Fès-Meknès,Premium
+212778079305,2023-06-09,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212771793287,2025-05-03,postpaid,active,Marrakech-Safi,Premium
+212609161821,2024-05-05,postpaid,active,Marrakech-Safi,Starter
+212745208015,2025-02-01,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212669096178,2025-05-16,postpaid,active,Oriental,Infinity
+212696907296,2024-06-26,postpaid,active,Béni Mellal-Khénifra,Infinity
+212659275132,2025-03-09,postpaid,active,Fès-Meknès,Infinity
+212751984059,2024-04-07,postpaid,active,Guelmim-Oued Noun,Starter
+212708953555,2024-09-09,postpaid,active,Marrakech-Safi,Infinity
+212716369503,2025-05-05,postpaid,active,Fès-Meknès,Infinity
+212608206243,2025-03-22,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212670924015,2025-02-26,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212758348677,2025-03-14,postpaid,active,Drâa-Tafilalet,Infinity
+212626193509,2025-04-23,postpaid,active,Marrakech-Safi,Infinity
+212730448589,2025-03-05,postpaid,active,Oriental,Infinity
+212724718815,2025-01-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212611919473,2023-12-06,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212604357535,2023-09-18,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212710924447,2024-04-10,postpaid,active,Casablanca-Settat,Starter
+212685039558,2024-06-30,postpaid,active,Drâa-Tafilalet,Premium
+212630109366,2023-10-01,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212606877557,2025-01-10,postpaid,active,Souss-Massa,Starter
+212689027722,2023-08-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212612468746,2024-11-11,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212692600811,2025-01-15,postpaid,active,Béni Mellal-Khénifra,Premium
+212636995696,2024-11-03,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212624543356,2024-06-22,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212620052835,2023-07-12,postpaid,active,Oriental,Premium
+212720357543,2023-06-30,postpaid,active,Rabat-Salé-Kénitra,Premium
+212788265234,2025-04-20,postpaid,active,Casablanca-Settat,Infinity
+212607977385,2024-08-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212710695198,2023-09-16,postpaid,active,Marrakech-Safi,Premium
+212658607183,2023-06-25,postpaid,active,Marrakech-Safi,Infinity
+212685732686,2025-03-19,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212717863178,2024-12-30,postpaid,active,Guelmim-Oued Noun,Starter
+212616378664,2024-06-20,postpaid,active,Fès-Meknès,Starter
+212698849534,2025-06-02,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212624082217,2025-02-12,postpaid,active,Béni Mellal-Khénifra,Premium
+212724853318,2024-06-22,postpaid,active,Marrakech-Safi,Premium
+212716778220,2024-07-03,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212664350006,2024-02-26,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212777063782,2024-01-23,postpaid,active,Casablanca-Settat,Premium
+212730288929,2025-02-02,postpaid,active,Fès-Meknès,Premium
+212730165768,2025-05-15,postpaid,active,Oriental,Premium
+212720770605,2024-05-18,postpaid,active,Drâa-Tafilalet,Infinity
+212782086351,2023-12-27,postpaid,active,Oriental,Premium
+212783167739,2024-12-10,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212702166058,2024-02-23,postpaid,active,Béni Mellal-Khénifra,Starter
+212799821344,2024-06-26,postpaid,active,Drâa-Tafilalet,Infinity
+212628058501,2024-09-13,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212600208451,2023-12-15,postpaid,active,Guelmim-Oued Noun,Infinity
+212726879497,2024-11-02,postpaid,active,Fès-Meknès,Premium
+212612194301,2024-11-12,postpaid,active,Fès-Meknès,Starter
+212717284316,2025-05-16,postpaid,active,Fès-Meknès,Starter
+212763455829,2024-04-06,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212678333967,2024-02-11,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212670319362,2024-05-12,postpaid,active,Drâa-Tafilalet,Premium
+212707602996,2025-02-15,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212655850847,2024-11-20,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212699655030,2024-07-05,postpaid,active,Fès-Meknès,Infinity
+212750526585,2025-06-01,postpaid,active,Drâa-Tafilalet,Starter
+212797983511,2024-09-04,postpaid,active,Drâa-Tafilalet,Infinity
+212675990565,2024-12-30,postpaid,active,Marrakech-Safi,Infinity
+212703709226,2024-05-22,postpaid,active,Casablanca-Settat,Infinity
+212600647398,2025-05-16,postpaid,active,Casablanca-Settat,Starter
+212671706786,2023-09-02,postpaid,active,Fès-Meknès,Premium
+212680281866,2023-08-28,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212640341940,2023-10-26,postpaid,active,Souss-Massa,Premium
+212664506932,2024-02-07,postpaid,active,Rabat-Salé-Kénitra,Starter
+212617892017,2024-03-02,postpaid,active,Marrakech-Safi,Premium
+212791305408,2023-09-28,postpaid,active,Drâa-Tafilalet,Premium
+212788240220,2024-12-31,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212733622004,2023-11-28,postpaid,active,Oriental,Starter
+212643496350,2024-04-08,postpaid,active,Béni Mellal-Khénifra,Starter
+212730260069,2024-11-10,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212752108780,2025-03-26,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212709407770,2025-05-20,postpaid,active,Guelmim-Oued Noun,Premium
+212656890570,2023-08-04,postpaid,active,Béni Mellal-Khénifra,Starter
+212601991419,2024-03-04,postpaid,active,Drâa-Tafilalet,Starter
+212691032264,2023-07-23,postpaid,active,Guelmim-Oued Noun,Infinity
+212616983854,2024-03-13,postpaid,active,Oriental,Starter
+212661165194,2025-06-04,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212737789178,2023-11-03,postpaid,active,Marrakech-Safi,Premium
+212771955279,2024-06-17,postpaid,active,Guelmim-Oued Noun,Premium
+212768923156,2024-03-27,postpaid,active,Béni Mellal-Khénifra,Premium
+212603612129,2024-01-04,postpaid,active,Souss-Massa,Starter
+212627985876,2024-11-14,postpaid,active,Marrakech-Safi,Premium
+212760488865,2024-07-07,postpaid,active,Fès-Meknès,Premium
+212674886508,2025-05-14,postpaid,active,Béni Mellal-Khénifra,Infinity
+212786618693,2023-09-08,postpaid,active,Oriental,Starter
+212657078853,2025-01-04,postpaid,active,Casablanca-Settat,Starter
+212710475445,2024-05-15,postpaid,active,Souss-Massa,Infinity
+212787133875,2023-07-05,postpaid,active,Béni Mellal-Khénifra,Infinity
+212634461871,2024-03-21,postpaid,active,Oriental,Infinity
+212632795765,2024-08-06,postpaid,active,Guelmim-Oued Noun,Starter
+212718891236,2025-05-15,postpaid,active,Casablanca-Settat,Starter
+212758339684,2023-06-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212612311576,2025-01-03,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212698150628,2024-09-07,postpaid,active,Drâa-Tafilalet,Starter
+212652415549,2025-02-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212754041566,2025-03-03,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212740116413,2023-10-27,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212718972704,2025-04-22,postpaid,active,Marrakech-Safi,Infinity
+212762320469,2024-04-22,postpaid,active,Casablanca-Settat,Infinity
+212618220591,2023-10-13,postpaid,active,Souss-Massa,Premium
+212712182884,2024-12-08,postpaid,active,Guelmim-Oued Noun,Starter
+212746231972,2024-08-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212615457504,2025-01-15,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212739914749,2023-09-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212675287070,2023-11-01,postpaid,active,Fès-Meknès,Starter
+212637716316,2024-05-07,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212601178321,2025-05-19,postpaid,active,Fès-Meknès,Starter
+212745149933,2024-09-05,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212779031767,2025-03-28,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212657462983,2024-12-19,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212771230109,2023-09-06,postpaid,active,Marrakech-Safi,Premium
+212758280055,2024-08-24,postpaid,active,Guelmim-Oued Noun,Infinity
+212697433080,2024-09-27,postpaid,active,Souss-Massa,Premium
+212713102602,2023-09-24,postpaid,active,Rabat-Salé-Kénitra,Premium
+212617154118,2024-04-23,postpaid,active,Guelmim-Oued Noun,Premium
+212732755658,2023-12-06,postpaid,active,Casablanca-Settat,Infinity
+212749694018,2024-01-01,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212678874350,2024-06-27,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212668742047,2024-06-10,postpaid,active,Rabat-Salé-Kénitra,Starter
+212732994138,2024-08-31,postpaid,active,Souss-Massa,Infinity
+212780381452,2025-05-15,postpaid,active,Oriental,Infinity
+212720910266,2023-11-24,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212646745449,2025-05-31,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212750068809,2023-07-24,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212698703246,2024-03-20,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212702758320,2024-10-18,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212714176963,2025-01-12,postpaid,active,Souss-Massa,Infinity
+212776834527,2024-07-01,postpaid,active,Souss-Massa,Infinity
+212628228016,2025-02-24,postpaid,active,Marrakech-Safi,Infinity
+212707217072,2023-06-28,postpaid,active,Rabat-Salé-Kénitra,Starter
+212670057362,2024-01-21,postpaid,active,Guelmim-Oued Noun,Starter
+212600803958,2023-12-22,postpaid,active,Oriental,Starter
+212713324281,2023-11-28,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212781452663,2024-05-26,postpaid,active,Marrakech-Safi,Starter
+212628274746,2025-01-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212761942591,2024-04-28,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212724813183,2025-03-14,postpaid,active,Guelmim-Oued Noun,Infinity
+212650369323,2024-12-19,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212654316313,2024-05-29,postpaid,active,Béni Mellal-Khénifra,Infinity
+212654977024,2024-12-18,postpaid,active,Casablanca-Settat,Premium
+212662641810,2024-06-29,postpaid,active,Rabat-Salé-Kénitra,Premium
+212639368392,2024-06-15,postpaid,active,Guelmim-Oued Noun,Starter
+212793288076,2024-05-15,postpaid,active,Drâa-Tafilalet,Premium
+212616753074,2024-12-29,postpaid,active,Guelmim-Oued Noun,Premium
+212797060411,2024-07-28,postpaid,active,Rabat-Salé-Kénitra,Starter
+212754965219,2024-04-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212789820518,2025-03-15,postpaid,active,Souss-Massa,Premium
+212659718754,2023-08-22,postpaid,active,Guelmim-Oued Noun,Infinity
+212671817855,2024-04-08,postpaid,active,Oriental,Premium
+212655871560,2023-11-20,postpaid,active,Guelmim-Oued Noun,Starter
+212711393464,2023-07-27,postpaid,active,Oriental,Starter
+212711379442,2023-11-12,postpaid,active,Souss-Massa,Infinity
+212752764906,2024-11-23,postpaid,active,Guelmim-Oued Noun,Premium
+212781645066,2024-11-10,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212753701948,2024-01-11,postpaid,active,Casablanca-Settat,Starter
+212743431455,2024-06-12,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212668540114,2023-10-18,postpaid,active,Guelmim-Oued Noun,Premium
+212635429455,2023-08-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212669486572,2024-02-10,postpaid,active,Casablanca-Settat,Starter
+212799692512,2025-02-26,postpaid,active,Marrakech-Safi,Premium
+212678574832,2023-11-05,postpaid,active,Marrakech-Safi,Infinity
+212649004386,2023-06-17,postpaid,active,Casablanca-Settat,Premium
+212748142191,2025-04-18,postpaid,active,Souss-Massa,Starter
+212617609598,2024-07-18,postpaid,active,Fès-Meknès,Infinity
+212710900710,2024-08-06,postpaid,active,Guelmim-Oued Noun,Infinity
+212670332598,2024-12-30,postpaid,active,Souss-Massa,Infinity
+212771508600,2023-09-12,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212771321814,2024-12-16,postpaid,active,Casablanca-Settat,Premium
+212745471777,2024-02-26,postpaid,active,Casablanca-Settat,Infinity
+212713418624,2024-09-21,postpaid,active,Fès-Meknès,Premium
+212658440848,2023-08-06,postpaid,active,Marrakech-Safi,Infinity
+212724439796,2024-06-06,postpaid,active,Guelmim-Oued Noun,Starter
+212624173005,2024-01-12,postpaid,active,Fès-Meknès,Infinity
+212721287284,2025-02-16,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212613963345,2024-10-18,postpaid,active,Souss-Massa,Infinity
+212643762814,2024-08-25,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212758744545,2024-04-01,postpaid,active,Souss-Massa,Premium
+212607188656,2025-01-10,postpaid,active,Béni Mellal-Khénifra,Starter
+212646608168,2024-11-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212775677447,2024-10-03,postpaid,active,Drâa-Tafilalet,Premium
+212650099775,2023-10-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212602766943,2024-05-27,postpaid,active,Marrakech-Safi,Premium
+212646510326,2025-05-31,postpaid,active,Béni Mellal-Khénifra,Infinity
+212686319008,2024-11-09,postpaid,active,Souss-Massa,Starter
+212774613058,2024-09-21,postpaid,active,Guelmim-Oued Noun,Starter
+212661201519,2023-11-23,postpaid,active,Drâa-Tafilalet,Premium
+212688110729,2024-11-06,postpaid,active,Marrakech-Safi,Premium
+212775275791,2024-09-15,postpaid,active,Oriental,Infinity
+212655527784,2023-07-12,postpaid,active,Souss-Massa,Starter
+212613568631,2025-02-17,postpaid,active,Marrakech-Safi,Starter
+212747916405,2023-12-04,postpaid,active,Drâa-Tafilalet,Starter
+212644576673,2023-12-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212721581521,2025-04-25,postpaid,active,Béni Mellal-Khénifra,Infinity
+212754357228,2025-02-12,postpaid,active,Marrakech-Safi,Premium
+212612458984,2024-06-16,postpaid,active,Guelmim-Oued Noun,Premium
+212738371528,2024-07-01,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212702380815,2024-11-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212722813331,2024-08-23,postpaid,active,Casablanca-Settat,Premium
+212644042611,2024-03-23,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212648129542,2024-10-09,postpaid,active,Rabat-Salé-Kénitra,Premium
+212719068592,2024-01-30,postpaid,active,Drâa-Tafilalet,Premium
+212685465113,2024-05-15,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212724923636,2024-03-09,postpaid,active,Souss-Massa,Infinity
+212742891459,2023-10-07,postpaid,active,Béni Mellal-Khénifra,Premium
+212733459974,2023-07-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212673061234,2025-02-28,postpaid,active,Fès-Meknès,Premium
+212715116877,2025-01-10,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212669585992,2024-09-04,postpaid,active,Drâa-Tafilalet,Infinity
+212738294967,2024-02-06,postpaid,active,Souss-Massa,Starter
+212770331907,2024-05-06,postpaid,active,Béni Mellal-Khénifra,Premium
+212780125663,2024-02-05,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212775619582,2025-03-26,postpaid,active,Drâa-Tafilalet,Premium
+212761254801,2024-03-27,postpaid,active,Oriental,Premium
+212700740813,2024-08-08,postpaid,active,Souss-Massa,Infinity
+212643993211,2023-09-07,postpaid,active,Fès-Meknès,Starter
+212789914840,2023-10-04,postpaid,active,Oriental,Infinity
+212729086905,2023-08-01,postpaid,active,Souss-Massa,Premium
+212648940562,2023-07-05,postpaid,active,Fès-Meknès,Premium
+212641237860,2025-04-18,postpaid,active,Fès-Meknès,Starter
+212765086810,2024-12-09,postpaid,active,Souss-Massa,Premium
+212676783339,2025-04-08,postpaid,active,Souss-Massa,Infinity
+212657552995,2024-11-06,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212737128844,2025-03-05,postpaid,active,Souss-Massa,Infinity
+212655613087,2023-10-07,postpaid,active,Guelmim-Oued Noun,Starter
+212772392101,2024-04-07,postpaid,active,Drâa-Tafilalet,Premium
+212658731172,2024-06-06,postpaid,active,Marrakech-Safi,Starter
+212726686197,2024-02-12,postpaid,active,Marrakech-Safi,Premium
+212718328088,2023-06-09,postpaid,active,Drâa-Tafilalet,Premium
+212642692895,2024-03-19,postpaid,active,Rabat-Salé-Kénitra,Premium
+212615050413,2024-03-20,postpaid,active,Souss-Massa,Starter
+212798665259,2024-12-07,postpaid,active,Guelmim-Oued Noun,Starter
+212648819722,2025-01-08,postpaid,active,Drâa-Tafilalet,Infinity
+212649114115,2023-06-22,postpaid,active,Drâa-Tafilalet,Premium
+212768235548,2025-03-25,postpaid,active,Fès-Meknès,Infinity
+212686917370,2024-10-14,postpaid,active,Guelmim-Oued Noun,Infinity
+212750832127,2023-11-07,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212776015381,2023-10-31,postpaid,active,Casablanca-Settat,Infinity
+212778128381,2023-08-04,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212621414482,2023-06-26,postpaid,active,Béni Mellal-Khénifra,Premium
+212647835402,2024-07-25,postpaid,active,Béni Mellal-Khénifra,Starter
+212754434240,2023-11-26,postpaid,active,Souss-Massa,Starter
+212664524077,2024-07-06,postpaid,active,Fès-Meknès,Infinity
+212699728789,2025-03-27,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212788481372,2024-03-23,postpaid,active,Béni Mellal-Khénifra,Premium
+212723239637,2024-01-10,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212691524499,2024-05-01,postpaid,active,Marrakech-Safi,Infinity
+212774437778,2024-02-22,postpaid,active,Marrakech-Safi,Premium
+212630520803,2023-11-01,postpaid,active,Souss-Massa,Starter
+212654474428,2023-09-10,postpaid,active,Rabat-Salé-Kénitra,Starter
+212656716860,2023-08-09,postpaid,active,Casablanca-Settat,Infinity
+212798388128,2024-03-17,postpaid,active,Rabat-Salé-Kénitra,Premium
+212681801811,2024-07-12,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212612472857,2023-09-11,postpaid,active,Béni Mellal-Khénifra,Starter
+212716329143,2024-02-01,postpaid,active,Casablanca-Settat,Starter
+212624196892,2023-09-28,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212656165290,2024-02-20,postpaid,active,Souss-Massa,Infinity
+212633907392,2023-11-23,postpaid,active,Rabat-Salé-Kénitra,Starter
+212641407841,2024-07-08,postpaid,active,Oriental,Starter
+212631350551,2023-11-01,postpaid,active,Souss-Massa,Infinity
+212758422706,2023-12-11,postpaid,active,Guelmim-Oued Noun,Premium
+212798881532,2024-06-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212698779994,2023-08-27,postpaid,active,Souss-Massa,Starter
+212727104235,2024-08-18,postpaid,active,Drâa-Tafilalet,Premium
+212659693751,2025-05-25,postpaid,active,Oriental,Premium
+212798687577,2024-07-11,postpaid,active,Oriental,Premium
+212659119639,2025-02-07,postpaid,active,Fès-Meknès,Starter
+212651605657,2024-11-26,postpaid,active,Marrakech-Safi,Infinity
+212766315767,2025-03-12,postpaid,active,Guelmim-Oued Noun,Infinity
+212665262551,2024-08-25,postpaid,active,Marrakech-Safi,Infinity
+212732740226,2023-10-21,postpaid,active,Drâa-Tafilalet,Infinity
+212608680912,2025-05-21,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212738484665,2024-10-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212662674503,2023-11-15,postpaid,active,Marrakech-Safi,Starter
+212799871625,2025-02-09,postpaid,active,Rabat-Salé-Kénitra,Premium
+212719867232,2025-05-27,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212736780896,2024-07-22,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212771233210,2025-06-01,postpaid,active,Béni Mellal-Khénifra,Infinity
+212725225897,2024-02-05,postpaid,active,Fès-Meknès,Starter
+212673693273,2024-12-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212621514297,2023-09-27,postpaid,active,Béni Mellal-Khénifra,Starter
+212723631810,2024-05-11,postpaid,active,Marrakech-Safi,Premium
+212664795890,2025-01-31,postpaid,active,Rabat-Salé-Kénitra,Premium
+212667537334,2024-11-13,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212679769503,2025-05-07,postpaid,active,Oriental,Starter
+212795008007,2023-08-03,postpaid,active,Drâa-Tafilalet,Premium
+212617279216,2024-02-25,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212743329495,2024-10-24,postpaid,active,Fès-Meknès,Premium
+212670086625,2024-11-26,postpaid,active,Drâa-Tafilalet,Starter
+212639090574,2024-04-11,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212688349588,2024-01-17,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212675693172,2023-12-23,postpaid,active,Fès-Meknès,Infinity
+212736093795,2025-06-06,postpaid,active,Rabat-Salé-Kénitra,Premium
+212662020384,2023-10-10,postpaid,active,Guelmim-Oued Noun,Premium
+212713808623,2023-07-22,postpaid,active,Oriental,Premium
+212799799334,2023-12-21,postpaid,active,Oriental,Starter
+212647837111,2023-12-25,postpaid,active,Casablanca-Settat,Premium
+212769073362,2024-05-02,postpaid,active,Marrakech-Safi,Starter
+212749325302,2024-01-09,postpaid,active,Drâa-Tafilalet,Premium
+212691881690,2025-04-08,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212721282858,2025-05-13,postpaid,active,Rabat-Salé-Kénitra,Starter
+212624913140,2023-11-24,postpaid,active,Drâa-Tafilalet,Starter
+212790455359,2024-01-04,postpaid,active,Béni Mellal-Khénifra,Infinity
+212708356749,2024-04-22,postpaid,active,Oriental,Premium
+212658665020,2025-05-26,postpaid,active,Drâa-Tafilalet,Infinity
+212634012887,2024-09-13,postpaid,active,Fès-Meknès,Infinity
+212795366160,2023-09-22,postpaid,active,Souss-Massa,Infinity
+212711662209,2024-11-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212656236183,2025-06-04,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212664925626,2023-07-05,postpaid,active,Guelmim-Oued Noun,Starter
+212629020869,2023-12-12,postpaid,active,Guelmim-Oued Noun,Infinity
+212797253635,2024-11-21,postpaid,active,Oriental,Infinity
+212628776221,2023-12-10,postpaid,active,Casablanca-Settat,Starter
+212793290602,2023-10-15,postpaid,active,Casablanca-Settat,Infinity
+212718017445,2025-01-01,postpaid,active,Oriental,Infinity
+212773398400,2023-09-01,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212744041395,2024-11-19,postpaid,active,Souss-Massa,Starter
+212624046758,2024-02-28,postpaid,active,Béni Mellal-Khénifra,Premium
+212762524857,2024-03-24,postpaid,active,Béni Mellal-Khénifra,Infinity
+212640559613,2025-01-25,postpaid,active,Béni Mellal-Khénifra,Infinity
+212717904007,2025-01-01,postpaid,active,Souss-Massa,Starter
+212783910631,2023-12-11,postpaid,active,Rabat-Salé-Kénitra,Starter
+212681204330,2024-01-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212655446815,2024-01-24,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212714741315,2023-08-29,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212693073658,2023-08-08,postpaid,active,Guelmim-Oued Noun,Infinity
+212620272867,2024-11-27,postpaid,active,Guelmim-Oued Noun,Premium
+212686728914,2023-08-01,postpaid,active,Oriental,Premium
+212696656897,2025-05-01,postpaid,active,Fès-Meknès,Starter
+212688145525,2023-11-16,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212716185734,2024-04-05,postpaid,active,Béni Mellal-Khénifra,Infinity
+212659217276,2024-03-27,postpaid,active,Drâa-Tafilalet,Infinity
+212702838518,2024-02-08,postpaid,active,Guelmim-Oued Noun,Premium
+212640753685,2023-06-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212716042721,2024-06-22,postpaid,active,Marrakech-Safi,Infinity
+212755056194,2025-03-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212767839837,2024-03-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212679272971,2024-10-15,postpaid,active,Drâa-Tafilalet,Premium
+212756936462,2025-04-28,postpaid,active,Béni Mellal-Khénifra,Starter
+212725223576,2024-11-05,postpaid,active,Oriental,Infinity
+212713031673,2024-09-26,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212616891180,2023-06-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212795039170,2024-11-04,postpaid,active,Béni Mellal-Khénifra,Infinity
+212654796034,2024-10-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212695934000,2024-11-17,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212768478215,2024-05-27,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212790999693,2023-08-28,postpaid,active,Béni Mellal-Khénifra,Starter
+212736019984,2024-05-21,postpaid,active,Guelmim-Oued Noun,Starter
+212664010145,2024-10-31,postpaid,active,Oriental,Starter
+212658938129,2023-11-01,postpaid,active,Oriental,Premium
+212614423863,2023-12-19,postpaid,active,Drâa-Tafilalet,Starter
+212782277360,2023-12-22,postpaid,active,Casablanca-Settat,Premium
+212774011794,2024-08-24,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212683495185,2024-01-31,postpaid,active,Casablanca-Settat,Starter
+212770832162,2024-04-10,postpaid,active,Béni Mellal-Khénifra,Premium
+212643107523,2024-10-10,postpaid,active,Béni Mellal-Khénifra,Starter
+212613137123,2024-04-01,postpaid,active,Souss-Massa,Premium
+212660888734,2024-07-19,postpaid,active,Oriental,Infinity
+212619946232,2024-03-18,postpaid,active,Souss-Massa,Infinity
+212676553857,2024-07-31,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212642293569,2023-08-04,postpaid,active,Béni Mellal-Khénifra,Infinity
+212704361284,2025-03-09,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212655422567,2024-08-03,postpaid,active,Souss-Massa,Premium
+212697945738,2023-10-12,postpaid,active,Casablanca-Settat,Starter
+212746782571,2023-07-05,postpaid,active,Souss-Massa,Infinity
+212619692288,2025-01-08,postpaid,active,Oriental,Starter
+212666099241,2024-07-04,postpaid,active,Souss-Massa,Premium
+212665892583,2024-05-15,postpaid,active,Casablanca-Settat,Infinity
+212722378373,2025-03-24,postpaid,active,Marrakech-Safi,Starter
+212739763261,2025-01-03,postpaid,active,Oriental,Infinity
+212749534184,2024-06-29,postpaid,active,Casablanca-Settat,Infinity
+212742030309,2024-03-07,postpaid,active,Souss-Massa,Starter
+212628709717,2024-04-09,postpaid,active,Souss-Massa,Starter
+212722627514,2024-12-08,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212703130718,2023-08-03,postpaid,active,Casablanca-Settat,Starter
+212615543372,2024-02-18,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212668348766,2024-02-12,postpaid,active,Casablanca-Settat,Infinity
+212734415006,2024-01-15,postpaid,active,Souss-Massa,Infinity
+212782160021,2023-09-28,postpaid,active,Oriental,Premium
+212678311824,2025-01-18,postpaid,active,Drâa-Tafilalet,Premium
+212717801834,2024-09-13,postpaid,active,Oriental,Starter
+212615247431,2024-03-17,postpaid,active,Guelmim-Oued Noun,Starter
+212622971626,2024-08-18,postpaid,active,Drâa-Tafilalet,Infinity
+212680640740,2023-09-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212677846793,2024-09-14,postpaid,active,Guelmim-Oued Noun,Premium
+212677573280,2025-01-18,postpaid,active,Béni Mellal-Khénifra,Premium
+212704482366,2025-05-09,postpaid,active,Drâa-Tafilalet,Premium
+212699164716,2023-08-31,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212689077099,2024-09-10,postpaid,active,Guelmim-Oued Noun,Infinity
+212615132957,2024-03-15,postpaid,active,Fès-Meknès,Infinity
+212632708567,2024-12-16,postpaid,active,Fès-Meknès,Starter
+212712597513,2024-04-01,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212710653531,2024-01-31,postpaid,active,Fès-Meknès,Premium
+212668203551,2024-06-07,postpaid,active,Guelmim-Oued Noun,Infinity
+212758908961,2023-11-06,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212669207488,2023-12-31,postpaid,active,Guelmim-Oued Noun,Premium
+212666063671,2024-07-28,postpaid,active,Fès-Meknès,Premium
+212694901504,2024-06-11,postpaid,active,Guelmim-Oued Noun,Infinity
+212641929331,2023-08-30,postpaid,active,Oriental,Infinity
+212644823138,2024-06-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212610506474,2024-09-14,postpaid,active,Souss-Massa,Infinity
+212786341018,2024-11-20,postpaid,active,Rabat-Salé-Kénitra,Starter
+212766447057,2023-12-22,postpaid,active,Casablanca-Settat,Premium
+212686861553,2024-12-22,postpaid,active,Guelmim-Oued Noun,Premium
+212766688089,2024-10-24,postpaid,active,Fès-Meknès,Premium
+212713367289,2024-08-13,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212731982219,2024-05-23,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212708843756,2024-04-24,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212633157147,2024-01-02,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212672381359,2024-10-08,postpaid,active,Casablanca-Settat,Infinity
+212678703318,2023-06-17,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212633638149,2023-07-09,postpaid,active,Souss-Massa,Premium
+212614007658,2025-01-04,postpaid,active,Drâa-Tafilalet,Starter
+212798143526,2024-09-16,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212751292713,2024-04-03,postpaid,active,Marrakech-Safi,Starter
+212701375900,2025-05-13,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212628865006,2025-01-04,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212671357445,2024-09-13,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212679332173,2023-09-09,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212668937890,2023-06-27,postpaid,active,Souss-Massa,Starter
+212716392318,2025-04-09,postpaid,active,Oriental,Infinity
+212746413651,2024-06-13,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212728218681,2024-12-28,postpaid,active,Drâa-Tafilalet,Infinity
+212735615860,2023-07-19,postpaid,active,Béni Mellal-Khénifra,Premium
+212665419465,2023-07-09,postpaid,active,Béni Mellal-Khénifra,Starter
+212653798938,2024-08-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212780165148,2025-04-18,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212711620369,2024-01-20,postpaid,active,Drâa-Tafilalet,Premium
+212649574578,2024-07-09,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212635114347,2023-10-25,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212709261225,2025-01-07,postpaid,active,Drâa-Tafilalet,Premium
+212718265367,2024-02-27,postpaid,active,Béni Mellal-Khénifra,Starter
+212685627344,2025-01-01,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212632620687,2024-10-19,postpaid,active,Guelmim-Oued Noun,Starter
+212675185622,2025-01-24,postpaid,active,Oriental,Starter
+212776827518,2024-09-19,postpaid,active,Fès-Meknès,Starter
+212659295169,2024-06-16,postpaid,active,Fès-Meknès,Infinity
+212642428310,2025-02-23,postpaid,active,Oriental,Starter
+212745617920,2024-02-23,postpaid,active,Oriental,Infinity
+212655291949,2024-05-03,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212722287437,2023-07-21,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212735830262,2024-07-29,postpaid,active,Souss-Massa,Starter
+212758527080,2023-10-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212751613742,2024-10-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212672732500,2023-12-23,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212635897185,2023-06-12,postpaid,active,Casablanca-Settat,Premium
+212673255261,2024-08-22,postpaid,active,Casablanca-Settat,Premium
+212672760306,2025-01-02,postpaid,active,Drâa-Tafilalet,Starter
+212643282271,2025-02-09,postpaid,active,Oriental,Premium
+212638143572,2025-05-25,postpaid,active,Oriental,Infinity
+212702194873,2024-02-09,postpaid,active,Fès-Meknès,Infinity
+212772288765,2023-12-12,postpaid,active,Drâa-Tafilalet,Premium
+212799057787,2024-06-05,postpaid,active,Guelmim-Oued Noun,Infinity
+212767952317,2024-03-15,postpaid,active,Guelmim-Oued Noun,Premium
+212672842892,2024-10-25,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212608167982,2023-09-01,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212760912521,2023-12-07,postpaid,active,Marrakech-Safi,Premium
+212728489675,2023-11-17,postpaid,active,Casablanca-Settat,Starter
+212655733614,2023-07-16,postpaid,active,Drâa-Tafilalet,Infinity
+212639432600,2025-03-30,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212646703670,2024-12-03,postpaid,active,Casablanca-Settat,Premium
+212677668230,2024-11-08,postpaid,active,Fès-Meknès,Starter
+212611456473,2025-02-06,postpaid,active,Guelmim-Oued Noun,Infinity
+212622565914,2024-09-29,postpaid,active,Drâa-Tafilalet,Premium
+212795663942,2024-07-20,postpaid,active,Béni Mellal-Khénifra,Starter
+212723300179,2024-12-01,postpaid,active,Rabat-Salé-Kénitra,Starter
+212613198018,2024-05-17,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212649766648,2024-02-01,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212707054303,2024-11-21,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212721427724,2024-11-17,postpaid,active,Souss-Massa,Premium
+212799331985,2025-01-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212738443530,2024-11-29,postpaid,active,Fès-Meknès,Infinity
+212742894055,2025-02-09,postpaid,active,Fès-Meknès,Starter
+212661755695,2025-02-11,postpaid,active,Marrakech-Safi,Starter
+212659289968,2025-03-16,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212644977466,2024-01-19,postpaid,active,Rabat-Salé-Kénitra,Premium
+212726809626,2024-02-10,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212714140441,2023-11-13,postpaid,active,Fès-Meknès,Infinity
+212756177420,2023-08-31,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212649431411,2023-11-07,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212630033220,2023-12-18,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212796344228,2025-05-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212733990018,2025-03-11,postpaid,active,Casablanca-Settat,Starter
+212728574312,2024-06-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212723411279,2023-09-13,postpaid,active,Rabat-Salé-Kénitra,Premium
+212726500879,2024-01-17,postpaid,active,Béni Mellal-Khénifra,Starter
+212716010941,2023-09-04,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212776643200,2024-01-11,postpaid,active,Marrakech-Safi,Premium
+212676162225,2025-02-12,postpaid,active,Béni Mellal-Khénifra,Starter
+212777946212,2023-06-09,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212688652336,2024-11-05,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212674008658,2025-05-17,postpaid,active,Guelmim-Oued Noun,Premium
+212679036858,2025-02-23,postpaid,active,Drâa-Tafilalet,Infinity
+212768143201,2023-09-28,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212738283959,2023-07-01,postpaid,active,Béni Mellal-Khénifra,Premium
+212612064955,2023-11-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212745276572,2023-11-04,postpaid,active,Fès-Meknès,Premium
+212673452086,2023-12-14,postpaid,active,Fès-Meknès,Premium
+212717648052,2024-08-22,postpaid,active,Fès-Meknès,Premium
+212600237723,2024-12-08,postpaid,active,Marrakech-Safi,Infinity
+212662885973,2025-02-02,postpaid,active,Souss-Massa,Infinity
+212728423114,2025-02-04,postpaid,active,Oriental,Starter
+212601853471,2025-04-19,postpaid,active,Rabat-Salé-Kénitra,Premium
+212726482639,2024-04-14,postpaid,active,Souss-Massa,Infinity
+212670725060,2024-12-17,postpaid,active,Béni Mellal-Khénifra,Infinity
+212796236898,2024-01-31,postpaid,active,Drâa-Tafilalet,Infinity
+212613287026,2024-02-01,postpaid,active,Casablanca-Settat,Premium
+212648184236,2024-10-31,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212776388277,2024-08-07,postpaid,active,Guelmim-Oued Noun,Infinity
+212701562971,2025-03-21,postpaid,active,Béni Mellal-Khénifra,Premium
+212621908274,2025-01-10,postpaid,active,Béni Mellal-Khénifra,Starter
+212650829836,2023-12-12,postpaid,active,Souss-Massa,Premium
+212637030376,2024-11-23,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212777658795,2025-03-17,postpaid,active,Béni Mellal-Khénifra,Infinity
+212622160341,2023-08-07,postpaid,active,Marrakech-Safi,Starter
+212715591827,2023-10-12,postpaid,active,Fès-Meknès,Infinity
+212617468886,2024-08-13,postpaid,active,Rabat-Salé-Kénitra,Starter
+212697270644,2024-05-23,postpaid,active,Marrakech-Safi,Starter
+212622162735,2023-07-24,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212678399067,2024-05-05,postpaid,active,Fès-Meknès,Starter
+212666030428,2023-07-20,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212714209290,2024-04-14,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212671504317,2024-05-10,postpaid,active,Guelmim-Oued Noun,Premium
+212610557696,2024-02-29,postpaid,active,Fès-Meknès,Infinity
+212636625491,2024-10-02,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212776250090,2024-09-05,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212700942736,2024-07-15,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212669259474,2025-02-28,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212698781063,2025-05-16,postpaid,active,Casablanca-Settat,Infinity
+212718637248,2023-07-21,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212759689545,2024-07-18,postpaid,active,Casablanca-Settat,Starter
+212654577613,2025-02-27,postpaid,active,Casablanca-Settat,Infinity
+212649733573,2024-11-10,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212781284983,2024-05-08,postpaid,active,Oriental,Infinity
+212633235826,2024-07-31,postpaid,active,Fès-Meknès,Starter
+212733762660,2024-08-10,postpaid,active,Oriental,Starter
+212647482449,2024-02-05,postpaid,active,Fès-Meknès,Premium
+212631944617,2024-07-09,postpaid,active,Rabat-Salé-Kénitra,Premium
+212760191519,2025-02-02,postpaid,active,Guelmim-Oued Noun,Starter
+212659077395,2025-03-31,postpaid,active,Marrakech-Safi,Starter
+212725514593,2024-06-13,postpaid,active,Drâa-Tafilalet,Premium
+212647185902,2024-02-19,postpaid,active,Casablanca-Settat,Starter
+212647409088,2024-05-03,postpaid,active,Drâa-Tafilalet,Starter
+212773029790,2024-09-28,postpaid,active,Fès-Meknès,Infinity
+212781685762,2024-09-05,postpaid,active,Drâa-Tafilalet,Infinity
+212745159767,2025-05-18,postpaid,active,Souss-Massa,Starter
+212687925458,2023-10-20,postpaid,active,Casablanca-Settat,Infinity
+212628310136,2024-02-04,postpaid,active,Fès-Meknès,Starter
+212784000578,2023-06-29,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212724997962,2025-01-26,postpaid,active,Oriental,Premium
+212777306490,2024-09-14,postpaid,active,Oriental,Infinity
+212621997953,2024-07-30,postpaid,active,Fès-Meknès,Premium
+212689183172,2024-01-31,postpaid,active,Souss-Massa,Premium
+212699782229,2024-03-17,postpaid,active,Guelmim-Oued Noun,Premium
+212797064603,2023-08-01,postpaid,active,Rabat-Salé-Kénitra,Premium
+212713583394,2024-07-16,postpaid,active,Guelmim-Oued Noun,Infinity
+212656226258,2023-06-29,postpaid,active,Béni Mellal-Khénifra,Infinity
+212727308219,2024-08-26,postpaid,active,Souss-Massa,Starter
+212721909683,2024-09-12,postpaid,active,Drâa-Tafilalet,Premium
+212609930136,2025-05-18,postpaid,active,Casablanca-Settat,Premium
+212754914344,2024-10-29,postpaid,active,Casablanca-Settat,Premium
+212678040976,2024-05-28,postpaid,active,Souss-Massa,Starter
+212718887912,2024-11-02,postpaid,active,Drâa-Tafilalet,Premium
+212737420706,2024-10-21,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212787558508,2023-12-24,postpaid,active,Béni Mellal-Khénifra,Infinity
+212727304215,2024-12-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212625353195,2024-08-02,postpaid,active,Souss-Massa,Premium
+212791915125,2025-03-15,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212694928505,2024-10-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212763540550,2023-07-14,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212738007798,2023-12-11,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212662166582,2024-02-08,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212675351410,2024-11-10,postpaid,active,Drâa-Tafilalet,Premium
+212672769425,2023-07-03,postpaid,active,Fès-Meknès,Infinity
+212654108878,2024-11-09,postpaid,active,Rabat-Salé-Kénitra,Premium
+212772711709,2024-04-02,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212712963396,2023-07-24,postpaid,active,Guelmim-Oued Noun,Premium
+212695820773,2024-04-14,postpaid,active,Casablanca-Settat,Premium
+212630106879,2025-02-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212729484187,2025-04-02,postpaid,active,Oriental,Infinity
+212660658397,2025-01-02,postpaid,active,Rabat-Salé-Kénitra,Starter
+212601537011,2023-08-19,postpaid,active,Drâa-Tafilalet,Starter
+212763909499,2024-10-08,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212754402139,2024-07-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212799281134,2023-10-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212616011129,2025-02-05,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212782943768,2024-07-03,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212745955673,2024-05-22,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212636845597,2023-11-21,postpaid,active,Drâa-Tafilalet,Infinity
+212702263416,2024-03-25,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212605496869,2024-01-01,postpaid,active,Souss-Massa,Premium
+212798063439,2025-04-16,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212672786336,2025-04-21,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212656225498,2025-03-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212695574578,2024-03-20,postpaid,active,Marrakech-Safi,Starter
+212666413698,2025-04-13,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212622053576,2025-02-24,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212647616674,2024-10-18,postpaid,active,Béni Mellal-Khénifra,Premium
+212733497967,2023-08-29,postpaid,active,Béni Mellal-Khénifra,Starter
+212646099955,2023-08-21,postpaid,active,Souss-Massa,Premium
+212786919360,2024-09-04,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212702213787,2024-09-16,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212654492855,2024-05-23,postpaid,active,Oriental,Starter
+212683061742,2024-01-08,postpaid,active,Rabat-Salé-Kénitra,Premium
+212730689995,2025-03-12,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212732633712,2024-03-19,postpaid,active,Casablanca-Settat,Infinity
+212731280881,2023-07-30,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212602213690,2023-10-23,postpaid,active,Béni Mellal-Khénifra,Premium
+212655906127,2024-02-13,postpaid,active,Fès-Meknès,Premium
+212753484990,2024-01-21,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212666642885,2024-07-23,postpaid,active,Drâa-Tafilalet,Premium
+212672439932,2024-06-30,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212615271267,2024-08-15,postpaid,active,Oriental,Starter
+212783590181,2024-05-05,postpaid,active,Marrakech-Safi,Premium
+212633940063,2023-07-09,postpaid,active,Oriental,Infinity
+212731999412,2024-09-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212766140971,2025-01-25,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212718964653,2024-07-20,postpaid,active,Guelmim-Oued Noun,Premium
+212736844733,2024-01-14,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212685951019,2024-08-30,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212731420778,2024-07-13,postpaid,active,Oriental,Starter
+212650004911,2023-07-04,postpaid,active,Marrakech-Safi,Infinity
+212656347388,2024-12-24,postpaid,active,Fès-Meknès,Infinity
+212707640282,2024-02-09,postpaid,active,Fès-Meknès,Starter
+212714941851,2024-03-23,postpaid,active,Guelmim-Oued Noun,Infinity
+212769393504,2023-08-09,postpaid,active,Oriental,Premium
+212747933466,2024-04-10,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212613507433,2024-09-25,postpaid,active,Casablanca-Settat,Premium
+212783208390,2023-07-03,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212661768418,2024-09-17,postpaid,active,Oriental,Infinity
+212692833794,2023-09-13,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212744918081,2024-09-25,postpaid,active,Marrakech-Safi,Premium
+212629236458,2023-09-18,postpaid,active,Rabat-Salé-Kénitra,Premium
+212724910656,2023-11-03,postpaid,active,Marrakech-Safi,Premium
+212724160607,2024-08-13,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212675940070,2024-03-12,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212625961660,2025-03-17,postpaid,active,Oriental,Infinity
+212650309845,2024-10-27,postpaid,active,Souss-Massa,Premium
+212746868937,2023-09-06,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212604401110,2025-05-08,postpaid,active,Souss-Massa,Starter
+212787585184,2025-03-08,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212689004839,2023-08-03,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212618628991,2024-04-03,postpaid,active,Oriental,Infinity
+212605933206,2024-04-23,postpaid,active,Casablanca-Settat,Starter
+212701480196,2024-01-15,postpaid,active,Béni Mellal-Khénifra,Infinity
+212793499686,2025-02-20,postpaid,active,Fès-Meknès,Infinity
+212631645718,2023-07-16,postpaid,active,Fès-Meknès,Infinity
+212688769754,2024-08-06,postpaid,active,Drâa-Tafilalet,Starter
+212660141190,2025-02-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212757439547,2025-01-04,postpaid,active,Souss-Massa,Starter
+212776626654,2024-03-05,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212614751603,2025-05-25,postpaid,active,Guelmim-Oued Noun,Premium
+212646827993,2023-06-23,postpaid,active,Casablanca-Settat,Infinity
+212785459292,2024-04-26,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212790828376,2024-01-27,postpaid,active,Souss-Massa,Infinity
+212747675187,2024-08-17,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212754338753,2023-12-22,postpaid,active,Marrakech-Safi,Premium
+212760225652,2023-09-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212671725627,2025-01-30,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212744524772,2024-03-19,postpaid,active,Casablanca-Settat,Premium
+212637149539,2023-08-15,postpaid,active,Rabat-Salé-Kénitra,Starter
+212739397968,2023-11-30,postpaid,active,Casablanca-Settat,Infinity
+212658102033,2024-12-23,postpaid,active,Fès-Meknès,Infinity
+212652299605,2023-07-13,postpaid,active,Guelmim-Oued Noun,Premium
+212749035388,2024-10-11,postpaid,active,Béni Mellal-Khénifra,Starter
+212725783495,2024-03-27,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212769611886,2025-05-16,postpaid,active,Marrakech-Safi,Infinity
+212600167474,2023-08-06,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212675609547,2024-12-07,postpaid,active,Rabat-Salé-Kénitra,Starter
+212748820253,2024-01-30,postpaid,active,Marrakech-Safi,Starter
+212714738001,2023-07-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212757347003,2024-05-24,postpaid,active,Souss-Massa,Starter
+212606557461,2024-12-30,postpaid,active,Béni Mellal-Khénifra,Premium
+212744094999,2023-08-27,postpaid,active,Casablanca-Settat,Starter
+212772176482,2024-12-05,postpaid,active,Marrakech-Safi,Infinity
+212605397041,2023-11-13,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212631956548,2025-06-06,postpaid,active,Guelmim-Oued Noun,Infinity
+212777030239,2024-02-09,postpaid,active,Rabat-Salé-Kénitra,Starter
+212763644262,2023-08-15,postpaid,active,Guelmim-Oued Noun,Infinity
+212791415949,2023-11-14,postpaid,active,Marrakech-Safi,Premium
+212747905043,2025-02-23,postpaid,active,Rabat-Salé-Kénitra,Premium
+212743385064,2024-02-27,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212678454026,2024-09-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212603831457,2024-02-02,postpaid,active,Oriental,Infinity
+212727899879,2024-09-06,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212657588931,2025-06-02,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212631022149,2024-10-24,postpaid,active,Casablanca-Settat,Premium
+212703091706,2025-01-13,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212664949822,2023-08-15,postpaid,active,Drâa-Tafilalet,Infinity
+212634176184,2024-01-12,postpaid,active,Rabat-Salé-Kénitra,Starter
+212609963888,2023-10-26,postpaid,active,Marrakech-Safi,Infinity
+212668471370,2024-11-22,postpaid,active,Casablanca-Settat,Starter
+212710828300,2023-08-20,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212751622376,2024-04-16,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212694427380,2024-05-23,postpaid,active,Casablanca-Settat,Infinity
+212648544947,2024-03-18,postpaid,active,Casablanca-Settat,Infinity
+212634476357,2024-01-15,postpaid,active,Fès-Meknès,Starter
+212646058624,2024-04-17,postpaid,active,Rabat-Salé-Kénitra,Premium
+212757787849,2024-09-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212661854200,2025-04-09,postpaid,active,Souss-Massa,Infinity
+212733269521,2024-01-17,postpaid,active,Casablanca-Settat,Infinity
+212608399734,2024-01-06,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212675912315,2025-05-03,postpaid,active,Casablanca-Settat,Infinity
+212730465551,2023-10-24,postpaid,active,Casablanca-Settat,Infinity
+212618578362,2025-03-28,postpaid,active,Oriental,Infinity
+212743917392,2024-10-16,postpaid,active,Rabat-Salé-Kénitra,Starter
+212603667405,2024-12-20,postpaid,active,Guelmim-Oued Noun,Starter
+212687322751,2023-09-23,postpaid,active,Fès-Meknès,Premium
+212674632621,2023-09-05,postpaid,active,Souss-Massa,Premium
+212742727105,2024-08-26,postpaid,active,Guelmim-Oued Noun,Premium
+212750616607,2024-09-09,postpaid,active,Marrakech-Safi,Infinity
+212728109067,2024-03-11,postpaid,active,Rabat-Salé-Kénitra,Starter
+212606164452,2024-05-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212631745754,2023-09-04,postpaid,active,Béni Mellal-Khénifra,Starter
+212638064779,2023-11-04,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212700772370,2024-01-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212696828671,2024-07-20,postpaid,active,Guelmim-Oued Noun,Starter
+212648422447,2024-04-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212773810484,2025-02-09,postpaid,active,Guelmim-Oued Noun,Starter
+212627563571,2025-03-05,postpaid,active,Béni Mellal-Khénifra,Infinity
+212643833188,2023-10-12,postpaid,active,Souss-Massa,Starter
+212682975520,2025-05-27,postpaid,active,Rabat-Salé-Kénitra,Premium
+212718697144,2024-09-13,postpaid,active,Marrakech-Safi,Starter
+212780347273,2025-01-07,postpaid,active,Drâa-Tafilalet,Premium
+212785396906,2024-08-06,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212739530211,2023-06-20,postpaid,active,Oriental,Starter
+212724199283,2024-10-15,postpaid,active,Casablanca-Settat,Starter
+212669872645,2024-05-14,postpaid,active,Guelmim-Oued Noun,Premium
+212761454904,2024-07-25,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212697351630,2023-09-17,postpaid,active,Souss-Massa,Infinity
+212699258357,2024-08-11,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212680105868,2023-06-20,postpaid,active,Guelmim-Oued Noun,Starter
+212693165069,2023-10-14,postpaid,active,Casablanca-Settat,Premium
+212791119756,2025-05-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212662594494,2023-11-12,postpaid,active,Marrakech-Safi,Starter
+212613481379,2024-12-29,postpaid,active,Béni Mellal-Khénifra,Starter
+212620042830,2024-04-14,postpaid,active,Drâa-Tafilalet,Infinity
+212631362165,2023-10-21,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212709941710,2023-11-15,postpaid,active,Fès-Meknès,Premium
+212642708828,2024-03-02,postpaid,active,Guelmim-Oued Noun,Starter
+212644487617,2024-11-16,postpaid,active,Béni Mellal-Khénifra,Starter
+212703778030,2024-10-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212611817194,2024-08-25,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212771133898,2024-10-14,postpaid,active,Rabat-Salé-Kénitra,Premium
+212733244927,2025-04-09,postpaid,active,Béni Mellal-Khénifra,Starter
+212677419172,2023-10-14,postpaid,active,Guelmim-Oued Noun,Premium
+212778785567,2023-11-24,postpaid,active,Casablanca-Settat,Premium
+212609792190,2025-05-19,postpaid,active,Fès-Meknès,Premium
+212659611766,2023-07-24,postpaid,active,Guelmim-Oued Noun,Starter
+212766290846,2024-12-07,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212789349893,2024-04-07,postpaid,active,Souss-Massa,Premium
+212737512150,2023-11-20,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212773384169,2024-12-16,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212687940148,2024-07-19,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212600679822,2023-10-27,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212735995410,2025-03-20,postpaid,active,Drâa-Tafilalet,Infinity
+212794436632,2024-07-27,postpaid,active,Marrakech-Safi,Infinity
+212663694730,2024-12-19,postpaid,active,Rabat-Salé-Kénitra,Starter
+212648751661,2025-02-16,postpaid,active,Fès-Meknès,Premium
+212693308207,2024-03-22,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212661595842,2024-05-11,postpaid,active,Fès-Meknès,Starter
+212705204758,2024-10-11,postpaid,active,Rabat-Salé-Kénitra,Premium
+212797994212,2023-08-24,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212738356287,2023-11-22,postpaid,active,Guelmim-Oued Noun,Starter
+212698969457,2023-11-01,postpaid,active,Drâa-Tafilalet,Starter
+212664350906,2024-03-06,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212646052584,2025-01-19,postpaid,active,Oriental,Infinity
+212686948805,2023-08-29,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212648575508,2024-05-12,postpaid,active,Oriental,Premium
+212655883193,2025-01-04,postpaid,active,Drâa-Tafilalet,Premium
+212782746617,2024-02-03,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212685136325,2024-08-29,postpaid,active,Drâa-Tafilalet,Starter
+212739313207,2025-04-15,postpaid,active,Guelmim-Oued Noun,Infinity
+212655630420,2023-07-04,postpaid,active,Casablanca-Settat,Premium
+212770092161,2025-01-29,postpaid,active,Fès-Meknès,Infinity
+212754619392,2025-01-01,postpaid,active,Drâa-Tafilalet,Premium
+212679388123,2024-01-24,postpaid,active,Rabat-Salé-Kénitra,Starter
+212755241241,2025-06-06,postpaid,active,Drâa-Tafilalet,Premium
+212615364091,2024-06-20,postpaid,active,Casablanca-Settat,Infinity
+212702397353,2023-06-20,postpaid,active,Souss-Massa,Infinity
+212785971604,2023-08-01,postpaid,active,Guelmim-Oued Noun,Infinity
+212606794559,2023-08-17,postpaid,active,Marrakech-Safi,Infinity
+212613740208,2025-03-22,postpaid,active,Drâa-Tafilalet,Premium
+212603644871,2024-03-07,postpaid,active,Guelmim-Oued Noun,Premium
+212615383567,2024-07-28,postpaid,active,Marrakech-Safi,Starter
+212711413841,2025-05-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212759940786,2024-11-03,postpaid,active,Casablanca-Settat,Starter
+212637223441,2024-02-29,postpaid,active,Fès-Meknès,Infinity
+212695085414,2024-11-30,postpaid,active,Fès-Meknès,Infinity
+212784357913,2024-09-15,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212709298468,2024-05-25,postpaid,active,Guelmim-Oued Noun,Premium
+212788288124,2024-10-21,postpaid,active,Guelmim-Oued Noun,Starter
+212753929865,2025-05-06,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212684180836,2024-05-24,postpaid,active,Guelmim-Oued Noun,Premium
+212775183804,2024-05-23,postpaid,active,Béni Mellal-Khénifra,Infinity
+212617151701,2024-09-14,postpaid,active,Oriental,Premium
+212653163331,2025-03-24,postpaid,active,Guelmim-Oued Noun,Infinity
+212671089206,2024-03-04,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212637187669,2023-08-17,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212690738333,2024-07-28,postpaid,active,Drâa-Tafilalet,Infinity
+212739120011,2024-05-22,postpaid,active,Drâa-Tafilalet,Infinity
+212635766194,2025-04-25,postpaid,active,Souss-Massa,Infinity
+212794765374,2025-04-24,postpaid,active,Souss-Massa,Infinity
+212759745005,2024-08-30,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212726861835,2024-03-09,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212603593243,2024-09-03,postpaid,active,Drâa-Tafilalet,Starter
+212630659825,2023-08-03,postpaid,active,Béni Mellal-Khénifra,Infinity
+212704837611,2024-05-07,postpaid,active,Marrakech-Safi,Starter
+212655577119,2024-05-21,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212626176940,2024-08-12,postpaid,active,Guelmim-Oued Noun,Starter
+212760323991,2025-05-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212668895489,2024-03-03,postpaid,active,Souss-Massa,Premium
+212715050382,2025-01-17,postpaid,active,Drâa-Tafilalet,Premium
+212623811859,2025-03-13,postpaid,active,Guelmim-Oued Noun,Starter
+212785684054,2023-09-18,postpaid,active,Souss-Massa,Infinity
+212666430143,2024-12-06,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212606515924,2023-08-09,postpaid,active,Drâa-Tafilalet,Premium
+212614307305,2025-02-09,postpaid,active,Casablanca-Settat,Infinity
+212790268968,2024-02-04,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212733165961,2024-08-11,postpaid,active,Guelmim-Oued Noun,Starter
+212700535253,2025-05-29,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212733309654,2024-06-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212702855418,2024-06-17,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212604497451,2024-12-31,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212607030356,2024-01-17,postpaid,active,Fès-Meknès,Starter
+212668304790,2025-04-30,postpaid,active,Casablanca-Settat,Infinity
+212703090176,2023-06-25,postpaid,active,Rabat-Salé-Kénitra,Starter
+212622378357,2024-02-27,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212614427512,2023-11-10,postpaid,active,Marrakech-Safi,Infinity
+212736234472,2024-01-24,postpaid,active,Souss-Massa,Infinity
+212755984316,2025-02-24,postpaid,active,Marrakech-Safi,Starter
+212652018575,2025-05-29,postpaid,active,Souss-Massa,Premium
+212665725778,2024-02-14,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212749062373,2023-08-06,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212750446499,2023-11-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212784524080,2023-09-05,postpaid,active,Fès-Meknès,Infinity
+212680723457,2024-08-04,postpaid,active,Béni Mellal-Khénifra,Starter
+212788082384,2024-02-25,postpaid,active,Rabat-Salé-Kénitra,Premium
+212726203862,2024-02-14,postpaid,active,Béni Mellal-Khénifra,Starter
+212686612840,2024-03-02,postpaid,active,Oriental,Starter
+212710862041,2024-04-05,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212737890530,2024-04-03,postpaid,active,Marrakech-Safi,Premium
+212772362922,2024-01-02,postpaid,active,Guelmim-Oued Noun,Infinity
+212686480769,2025-05-25,postpaid,active,Fès-Meknès,Starter
+212694105341,2024-03-24,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212771655284,2024-03-11,postpaid,active,Casablanca-Settat,Infinity
+212747204368,2024-01-09,postpaid,active,Guelmim-Oued Noun,Premium
+212759971969,2024-03-02,postpaid,active,Oriental,Starter
+212644077984,2024-03-17,postpaid,active,Casablanca-Settat,Starter
+212735609856,2024-05-06,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212753109766,2025-04-01,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212728983986,2024-02-11,postpaid,active,Souss-Massa,Infinity
+212627157037,2023-09-22,postpaid,active,Marrakech-Safi,Infinity
+212782167979,2025-04-06,postpaid,active,Rabat-Salé-Kénitra,Premium
+212719481716,2023-11-30,postpaid,active,Drâa-Tafilalet,Infinity
+212640485801,2023-12-14,postpaid,active,Oriental,Infinity
+212711825410,2024-04-12,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212644642966,2023-09-07,postpaid,active,Fès-Meknès,Premium
+212710731755,2023-06-26,postpaid,active,Marrakech-Safi,Premium
+212647768883,2023-11-24,postpaid,active,Fès-Meknès,Starter
+212767347650,2025-05-05,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212611308199,2023-08-06,postpaid,active,Casablanca-Settat,Premium
+212761942333,2024-10-30,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212715492596,2025-04-23,postpaid,active,Drâa-Tafilalet,Starter
+212785295216,2025-01-08,postpaid,active,Souss-Massa,Premium
+212679783106,2024-05-26,postpaid,active,Rabat-Salé-Kénitra,Starter
+212673107388,2023-12-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212736651781,2024-03-02,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212777496080,2024-11-11,postpaid,active,Drâa-Tafilalet,Starter
+212700571166,2024-11-23,postpaid,active,Marrakech-Safi,Starter
+212718202379,2025-04-19,postpaid,active,Casablanca-Settat,Starter
+212735240646,2024-04-18,postpaid,active,Béni Mellal-Khénifra,Premium
+212762638552,2024-09-11,postpaid,active,Souss-Massa,Infinity
+212707621530,2023-12-05,postpaid,active,Casablanca-Settat,Infinity
+212640849836,2024-10-05,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212714787902,2024-06-22,postpaid,active,Oriental,Infinity
+212764059597,2023-07-08,postpaid,active,Souss-Massa,Infinity
+212737247589,2024-07-17,postpaid,active,Marrakech-Safi,Starter
+212742809328,2025-01-19,postpaid,active,Souss-Massa,Starter
+212624348489,2023-08-14,postpaid,active,Oriental,Premium
+212617257475,2025-01-10,postpaid,active,Fès-Meknès,Premium
+212796960646,2025-01-24,postpaid,active,Rabat-Salé-Kénitra,Starter
+212650979536,2024-04-10,postpaid,active,Casablanca-Settat,Starter
+212722844196,2023-09-19,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212657206331,2023-10-23,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212797382846,2024-07-09,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212701362806,2024-07-12,postpaid,active,Guelmim-Oued Noun,Infinity
+212605717645,2024-12-05,postpaid,active,Béni Mellal-Khénifra,Starter
+212617586804,2025-04-26,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212772824521,2025-02-20,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212701094986,2023-12-21,postpaid,active,Rabat-Salé-Kénitra,Starter
+212717894283,2024-05-08,postpaid,active,Souss-Massa,Starter
+212699344862,2025-02-07,postpaid,active,Marrakech-Safi,Infinity
+212698388323,2025-04-11,postpaid,active,Béni Mellal-Khénifra,Premium
+212796085431,2024-09-05,postpaid,active,Marrakech-Safi,Infinity
+212799296935,2025-02-24,postpaid,active,Guelmim-Oued Noun,Infinity
+212648035779,2023-12-22,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212693360701,2024-07-24,postpaid,active,Casablanca-Settat,Starter
+212750057112,2024-01-14,postpaid,active,Guelmim-Oued Noun,Starter
+212698677065,2025-02-08,postpaid,active,Guelmim-Oued Noun,Infinity
+212685251707,2024-06-25,postpaid,active,Béni Mellal-Khénifra,Infinity
+212785761414,2025-04-29,postpaid,active,Béni Mellal-Khénifra,Starter
+212678670155,2023-10-06,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212719339066,2023-12-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212721100226,2024-01-25,postpaid,active,Marrakech-Safi,Premium
+212688037120,2025-01-19,postpaid,active,Marrakech-Safi,Premium
+212686300445,2024-08-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212658361082,2024-05-24,postpaid,active,Oriental,Infinity
+212614280402,2024-09-04,postpaid,active,Marrakech-Safi,Starter
+212649535795,2024-04-07,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212655879299,2024-11-26,postpaid,active,Fès-Meknès,Premium
+212750645014,2024-08-27,postpaid,active,Oriental,Premium
+212665759599,2025-03-11,postpaid,active,Béni Mellal-Khénifra,Infinity
+212674207309,2025-05-24,postpaid,active,Casablanca-Settat,Starter
+212701797710,2023-08-13,postpaid,active,Oriental,Premium
+212620815566,2023-08-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212738875491,2024-10-11,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212606879278,2023-07-23,postpaid,active,Drâa-Tafilalet,Infinity
+212745373761,2024-02-27,postpaid,active,Guelmim-Oued Noun,Infinity
+212647191959,2024-04-20,postpaid,active,Fès-Meknès,Premium
+212711113854,2024-11-11,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212606670166,2025-05-11,postpaid,active,Guelmim-Oued Noun,Starter
+212635343798,2023-12-24,postpaid,active,Guelmim-Oued Noun,Infinity
+212735809899,2023-09-23,postpaid,active,Drâa-Tafilalet,Infinity
+212774795958,2023-10-23,postpaid,active,Guelmim-Oued Noun,Premium
+212793279688,2025-01-01,postpaid,active,Rabat-Salé-Kénitra,Starter
+212638119209,2023-09-19,postpaid,active,Béni Mellal-Khénifra,Infinity
+212745236463,2023-09-01,postpaid,active,Souss-Massa,Infinity
+212764724668,2023-06-30,postpaid,active,Béni Mellal-Khénifra,Starter
+212628164337,2023-09-21,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212617332058,2024-10-14,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212676947639,2025-05-13,postpaid,active,Drâa-Tafilalet,Premium
+212732176244,2024-08-16,postpaid,active,Oriental,Premium
+212652039014,2025-04-23,postpaid,active,Béni Mellal-Khénifra,Premium
+212778249431,2025-01-11,postpaid,active,Casablanca-Settat,Infinity
+212748850458,2024-09-08,postpaid,active,Oriental,Premium
+212614586586,2024-08-14,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212799486852,2023-09-04,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212744682057,2025-04-11,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212675861485,2024-04-14,postpaid,active,Béni Mellal-Khénifra,Starter
+212759385289,2024-09-06,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212651261291,2024-09-08,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212645544237,2023-09-23,postpaid,active,Rabat-Salé-Kénitra,Premium
+212657617802,2025-01-28,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212678373044,2025-01-02,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212728028751,2024-01-03,postpaid,active,Fès-Meknès,Infinity
+212668326052,2025-05-25,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212640888508,2024-09-04,postpaid,active,Béni Mellal-Khénifra,Infinity
+212759234642,2023-08-26,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212656619659,2024-05-06,postpaid,active,Rabat-Salé-Kénitra,Starter
+212718572331,2024-03-04,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212697673770,2023-12-01,postpaid,active,Souss-Massa,Starter
+212695269046,2025-05-24,postpaid,active,Drâa-Tafilalet,Premium
+212687812201,2025-01-14,postpaid,active,Béni Mellal-Khénifra,Infinity
+212683268015,2023-12-21,postpaid,active,Souss-Massa,Starter
+212634596631,2023-11-18,postpaid,active,Guelmim-Oued Noun,Starter
+212715659196,2023-11-16,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212638295435,2023-10-13,postpaid,active,Béni Mellal-Khénifra,Premium
+212765805128,2023-11-04,postpaid,active,Oriental,Infinity
+212614350657,2024-02-17,postpaid,active,Guelmim-Oued Noun,Premium
+212648163289,2024-12-31,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212798144568,2024-02-23,postpaid,active,Souss-Massa,Premium
+212657871628,2024-12-19,postpaid,active,Fès-Meknès,Starter
+212602137490,2023-06-10,postpaid,active,Casablanca-Settat,Premium
+212770949261,2023-10-26,postpaid,active,Rabat-Salé-Kénitra,Starter
+212638481854,2023-09-19,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212633613255,2023-06-28,postpaid,active,Fès-Meknès,Starter
+212784365267,2024-08-26,postpaid,active,Casablanca-Settat,Starter
+212687275828,2023-08-19,postpaid,active,Drâa-Tafilalet,Infinity
+212694876839,2024-06-17,postpaid,active,Béni Mellal-Khénifra,Infinity
+212638225250,2024-06-29,postpaid,active,Rabat-Salé-Kénitra,Starter
+212654919115,2024-07-17,postpaid,active,Guelmim-Oued Noun,Premium
+212654831024,2024-12-02,postpaid,active,Oriental,Infinity
+212782662690,2024-09-16,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212770011300,2023-08-17,postpaid,active,Oriental,Premium
+212600212888,2023-12-13,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212758844312,2023-07-23,postpaid,active,Rabat-Salé-Kénitra,Premium
+212781515878,2025-03-07,postpaid,active,Béni Mellal-Khénifra,Infinity
+212758831002,2023-12-06,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212762496129,2023-12-18,postpaid,active,Casablanca-Settat,Premium
+212656101919,2024-01-15,postpaid,active,Béni Mellal-Khénifra,Premium
+212790059773,2024-03-30,postpaid,active,Souss-Massa,Starter
+212614260037,2024-12-22,postpaid,active,Oriental,Starter
+212755490135,2023-06-14,postpaid,active,Oriental,Starter
+212780925189,2023-11-17,postpaid,active,Fès-Meknès,Infinity
+212686344743,2024-08-13,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212649900160,2025-04-26,postpaid,active,Fès-Meknès,Starter
+212767427472,2023-08-11,postpaid,active,Fès-Meknès,Premium
+212786387147,2023-12-05,postpaid,active,Oriental,Starter
+212640995582,2023-06-12,postpaid,active,Guelmim-Oued Noun,Premium
+212755830008,2023-09-21,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212724484633,2024-04-14,postpaid,active,Fès-Meknès,Premium
+212656260414,2024-10-24,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212650988568,2024-10-23,postpaid,active,Rabat-Salé-Kénitra,Premium
+212664595381,2025-06-02,postpaid,active,Souss-Massa,Premium
+212749723956,2025-06-05,postpaid,active,Fès-Meknès,Infinity
+212624008384,2023-11-10,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212742441828,2024-02-10,postpaid,active,Guelmim-Oued Noun,Starter
+212775867824,2025-05-11,postpaid,active,Rabat-Salé-Kénitra,Premium
+212629345155,2024-07-27,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212715632623,2024-01-31,postpaid,active,Casablanca-Settat,Premium
+212684611437,2024-02-10,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212636561400,2025-03-09,postpaid,active,Drâa-Tafilalet,Starter
+212717297075,2023-11-02,postpaid,active,Marrakech-Safi,Premium
+212604160159,2025-02-20,postpaid,active,Béni Mellal-Khénifra,Premium
+212779778868,2024-11-17,postpaid,active,Rabat-Salé-Kénitra,Starter
+212666816296,2025-06-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212743584684,2024-04-26,postpaid,active,Béni Mellal-Khénifra,Starter
+212756972077,2025-03-12,postpaid,active,Guelmim-Oued Noun,Infinity
+212704878416,2023-12-10,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212772085544,2024-09-22,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212622268523,2025-04-09,postpaid,active,Souss-Massa,Premium
+212639323995,2023-11-07,postpaid,active,Fès-Meknès,Infinity
+212611912651,2024-07-16,postpaid,active,Guelmim-Oued Noun,Infinity
+212655009642,2025-01-11,postpaid,active,Rabat-Salé-Kénitra,Premium
+212743486174,2023-12-04,postpaid,active,Souss-Massa,Infinity
+212793447110,2024-05-17,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212610866248,2025-05-23,postpaid,active,Oriental,Starter
+212640302176,2024-04-28,postpaid,active,Drâa-Tafilalet,Infinity
+212756834153,2024-03-31,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212795086888,2023-08-09,postpaid,active,Casablanca-Settat,Infinity
+212690408963,2025-02-14,postpaid,active,Oriental,Premium
+212755390263,2025-03-08,postpaid,active,Béni Mellal-Khénifra,Infinity
+212696491364,2023-10-08,postpaid,active,Souss-Massa,Premium
+212737783430,2024-02-08,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212743905278,2023-12-04,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212701957772,2024-05-21,postpaid,active,Oriental,Premium
+212789427915,2025-04-25,postpaid,active,Rabat-Salé-Kénitra,Premium
+212712414194,2024-08-30,postpaid,active,Béni Mellal-Khénifra,Premium
+212688063230,2024-12-02,postpaid,active,Marrakech-Safi,Premium
+212739489420,2024-11-05,postpaid,active,Drâa-Tafilalet,Starter
+212739819364,2025-01-18,postpaid,active,Souss-Massa,Infinity
+212699961587,2024-08-10,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212601808457,2025-01-25,postpaid,active,Béni Mellal-Khénifra,Infinity
+212670838018,2024-06-30,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212618233738,2025-05-31,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212726320063,2024-02-04,postpaid,active,Casablanca-Settat,Infinity
+212719674917,2023-06-13,postpaid,active,Oriental,Premium
+212600908711,2024-11-10,postpaid,active,Béni Mellal-Khénifra,Starter
+212622665948,2025-02-11,postpaid,active,Guelmim-Oued Noun,Premium
+212791426628,2024-08-21,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212669100799,2025-05-09,postpaid,active,Béni Mellal-Khénifra,Premium
+212686726193,2023-12-01,postpaid,active,Béni Mellal-Khénifra,Infinity
+212728650944,2023-11-14,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212648564942,2024-07-09,postpaid,active,Drâa-Tafilalet,Starter
+212777755736,2025-01-09,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212658940565,2025-01-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212624647622,2023-07-23,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212617494322,2024-07-22,postpaid,active,Marrakech-Safi,Starter
+212616519815,2024-02-01,postpaid,active,Rabat-Salé-Kénitra,Premium
+212758601787,2024-12-10,postpaid,active,Casablanca-Settat,Premium
+212730970467,2024-02-23,postpaid,active,Drâa-Tafilalet,Premium
+212783225495,2024-06-06,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212718506453,2023-11-06,postpaid,active,Souss-Massa,Starter
+212752590409,2024-11-13,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212629631012,2025-02-11,postpaid,active,Béni Mellal-Khénifra,Starter
+212645709979,2025-03-12,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212732424805,2023-09-30,postpaid,active,Guelmim-Oued Noun,Infinity
+212673324796,2024-10-19,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212726346643,2024-12-01,postpaid,active,Béni Mellal-Khénifra,Infinity
+212642596560,2023-12-15,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212636006986,2024-04-18,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212789885614,2025-05-01,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212799022292,2024-12-22,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212649470451,2023-09-23,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212790811448,2024-06-13,postpaid,active,Casablanca-Settat,Starter
+212780486616,2024-08-25,postpaid,active,Oriental,Starter
+212759160259,2024-01-08,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212750543599,2024-12-24,postpaid,active,Souss-Massa,Premium
+212628893029,2024-08-02,postpaid,active,Marrakech-Safi,Starter
+212725788699,2023-08-11,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212778515621,2023-07-19,postpaid,active,Guelmim-Oued Noun,Starter
+212767975135,2024-02-20,postpaid,active,Casablanca-Settat,Premium
+212739544718,2024-07-10,postpaid,active,Souss-Massa,Starter
+212630420962,2023-10-03,postpaid,active,Casablanca-Settat,Infinity
+212799933977,2024-12-22,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212701771493,2024-10-12,postpaid,active,Guelmim-Oued Noun,Premium
+212704045164,2024-08-17,postpaid,active,Souss-Massa,Premium
+212683931185,2023-08-01,postpaid,active,Béni Mellal-Khénifra,Starter
+212617874383,2024-03-20,postpaid,active,Marrakech-Safi,Infinity
+212703048153,2024-04-14,postpaid,active,Fès-Meknès,Starter
+212629891549,2025-01-13,postpaid,active,Souss-Massa,Infinity
+212799252362,2025-05-20,postpaid,active,Guelmim-Oued Noun,Starter
+212669258618,2024-07-05,postpaid,active,Drâa-Tafilalet,Infinity
+212643554057,2025-02-13,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212691421443,2023-09-05,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212635433885,2024-02-19,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212672475632,2025-04-26,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212646923846,2023-06-22,postpaid,active,Fès-Meknès,Premium
+212720488822,2024-03-16,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212743149479,2024-01-28,postpaid,active,Oriental,Starter
+212603903162,2024-12-20,postpaid,active,Tanger-Tétouan-Al Hoceïma,Infinity
+212611380559,2024-11-09,postpaid,active,Marrakech-Safi,Infinity
+212762361040,2024-02-16,postpaid,active,Guelmim-Oued Noun,Infinity
+212637378771,2025-05-08,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212722139671,2025-02-22,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212632281831,2024-04-04,postpaid,active,Guelmim-Oued Noun,Starter
+212634202189,2023-11-21,postpaid,active,Drâa-Tafilalet,Premium
+212647971177,2024-08-02,postpaid,active,Oriental,Premium
+212780957068,2023-08-21,postpaid,active,Guelmim-Oued Noun,Infinity
+212634958966,2024-08-14,postpaid,active,Drâa-Tafilalet,Infinity
+212639333607,2024-07-05,postpaid,active,Béni Mellal-Khénifra,Starter
+212727985167,2025-02-13,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212762432272,2023-07-21,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212675498385,2024-10-08,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212773248772,2023-08-04,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212600529880,2024-12-06,postpaid,active,Guelmim-Oued Noun,Premium
+212757371878,2025-05-06,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212664997645,2024-03-02,postpaid,active,Casablanca-Settat,Premium
+212720880507,2024-01-19,postpaid,active,Rabat-Salé-Kénitra,Premium
+212678192797,2023-06-10,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212705856999,2024-06-16,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212701663291,2024-09-11,postpaid,active,Casablanca-Settat,Infinity
+212648224082,2024-06-14,postpaid,active,Casablanca-Settat,Premium
+212751080899,2024-01-17,postpaid,active,Marrakech-Safi,Infinity
+212769612985,2024-09-20,postpaid,active,Fès-Meknès,Premium
+212772467582,2025-02-03,postpaid,active,Souss-Massa,Starter
+212702158793,2023-06-15,postpaid,active,Béni Mellal-Khénifra,Premium
+212679612832,2023-12-14,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212649133091,2025-01-22,postpaid,active,Marrakech-Safi,Infinity
+212737931833,2024-05-20,postpaid,active,Drâa-Tafilalet,Infinity
+212613535498,2025-05-03,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212653517747,2024-04-10,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212737066805,2023-06-28,postpaid,active,Casablanca-Settat,Starter
+212611560215,2023-12-28,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212773040750,2025-04-18,postpaid,active,Marrakech-Safi,Starter
+212725890496,2024-03-16,postpaid,active,Guelmim-Oued Noun,Starter
+212652686597,2023-09-03,postpaid,active,Oriental,Infinity
+212616846013,2023-08-27,postpaid,active,Souss-Massa,Infinity
+212634992202,2024-05-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212657009212,2025-06-01,postpaid,active,Béni Mellal-Khénifra,Premium
+212784786664,2025-02-22,postpaid,active,Béni Mellal-Khénifra,Starter
+212727410908,2024-11-02,postpaid,active,Souss-Massa,Starter
+212628110142,2024-05-12,postpaid,active,Fès-Meknès,Premium
+212733155625,2025-01-03,postpaid,active,Guelmim-Oued Noun,Premium
+212675793957,2024-05-19,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212717224236,2024-01-26,postpaid,active,Béni Mellal-Khénifra,Premium
+212634150154,2023-08-13,postpaid,active,Drâa-Tafilalet,Infinity
+212799939916,2025-02-05,postpaid,active,Béni Mellal-Khénifra,Premium
+212672760944,2023-08-29,postpaid,active,Guelmim-Oued Noun,Premium
+212645756921,2023-09-05,postpaid,active,Souss-Massa,Premium
+212667665766,2024-02-25,postpaid,active,Oriental,Starter
+212617021654,2024-11-14,postpaid,active,Oriental,Premium
+212651611477,2024-04-15,postpaid,active,Rabat-Salé-Kénitra,Premium
+212780881421,2024-12-29,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212743511297,2024-10-07,postpaid,active,Oriental,Premium
+212667969337,2025-04-05,postpaid,active,Fès-Meknès,Premium
+212651943224,2023-07-04,postpaid,active,Oriental,Starter
+212740397783,2023-11-15,postpaid,active,Casablanca-Settat,Premium
+212787581550,2023-06-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212768107169,2023-10-10,postpaid,active,Fès-Meknès,Infinity
+212669148554,2024-09-30,postpaid,active,Oriental,Premium
+212781040789,2023-12-09,postpaid,active,Béni Mellal-Khénifra,Infinity
+212676777185,2023-06-18,postpaid,active,Guelmim-Oued Noun,Infinity
+212601220176,2024-03-18,postpaid,active,Béni Mellal-Khénifra,Starter
+212713445843,2024-11-18,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212688691080,2023-08-03,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212651714584,2024-11-01,postpaid,active,Marrakech-Safi,Premium
+212793904015,2025-05-11,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212720035405,2024-08-06,postpaid,active,Drâa-Tafilalet,Infinity
+212793234536,2024-08-13,postpaid,active,Oriental,Premium
+212756416247,2023-07-06,postpaid,active,Fès-Meknès,Premium
+212760235273,2023-12-27,postpaid,active,Oriental,Premium
+212614972761,2024-03-25,postpaid,active,Oriental,Premium
+212682944207,2023-06-28,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212669789777,2023-09-24,postpaid,active,Béni Mellal-Khénifra,Starter
+212789616046,2024-08-19,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212662498811,2024-08-17,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212667542768,2024-06-17,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212718852630,2024-07-04,postpaid,active,Souss-Massa,Premium
+212763958111,2025-05-28,postpaid,active,Marrakech-Safi,Premium
+212774481188,2025-03-30,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212692558232,2024-05-09,postpaid,active,Rabat-Salé-Kénitra,Starter
+212643523636,2023-10-26,postpaid,active,Souss-Massa,Infinity
+212636019975,2025-03-12,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212694600488,2024-05-19,postpaid,active,Casablanca-Settat,Starter
+212769134533,2024-06-25,postpaid,active,Casablanca-Settat,Infinity
+212692072924,2025-02-18,postpaid,active,Oriental,Starter
+212757338441,2025-02-01,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212780733255,2024-06-06,postpaid,active,Drâa-Tafilalet,Premium
+212617806497,2024-10-24,postpaid,active,Fès-Meknès,Infinity
+212695576498,2024-02-03,postpaid,active,Fès-Meknès,Infinity
+212702468759,2024-10-19,postpaid,active,Dakhla-Oued Ed-Dahab,Premium
+212624441218,2025-02-10,postpaid,active,Fès-Meknès,Infinity
+212620597897,2024-03-16,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212667579777,2024-10-02,postpaid,active,Dakhla-Oued Ed-Dahab,Starter
+212764873599,2024-09-04,postpaid,active,Rabat-Salé-Kénitra,Premium
+212703440244,2024-05-09,postpaid,active,Fès-Meknès,Premium
+212634574406,2024-01-06,postpaid,active,Fès-Meknès,Premium
+212640773589,2023-06-28,postpaid,active,Béni Mellal-Khénifra,Starter
+212709827543,2024-08-22,postpaid,active,Béni Mellal-Khénifra,Premium
+212643725180,2023-11-05,postpaid,active,Drâa-Tafilalet,Starter
+212682038942,2024-01-23,postpaid,active,Guelmim-Oued Noun,Premium
+212707788773,2024-10-11,postpaid,active,Béni Mellal-Khénifra,Infinity
+212640821019,2024-09-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Starter
+212695889025,2023-11-22,postpaid,active,Rabat-Salé-Kénitra,Premium
+212611635199,2023-06-28,postpaid,active,Tanger-Tétouan-Al Hoceïma,Premium
+212744197077,2024-11-08,postpaid,active,Oriental,Infinity
+212696053851,2024-01-21,postpaid,active,Souss-Massa,Premium
+212666274153,2025-01-16,postpaid,active,Rabat-Salé-Kénitra,Starter
+212703012339,2025-03-04,postpaid,active,Laâyoune-Sakia El Hamra,Starter
+212701109182,2024-07-28,postpaid,active,Laâyoune-Sakia El Hamra,Premium
+212623513354,2024-01-12,postpaid,active,Marrakech-Safi,Infinity
+212633336890,2025-03-03,postpaid,active,Casablanca-Settat,Premium
+212615564932,2023-11-16,postpaid,active,Drâa-Tafilalet,Premium
+212718126237,2025-02-16,postpaid,active,Fès-Meknès,Infinity
+212657226921,2023-06-24,postpaid,active,Laâyoune-Sakia El Hamra,Infinity
+212736246955,2024-02-06,postpaid,active,Fès-Meknès,Infinity
+212695245959,2025-03-15,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212741435563,2024-10-25,postpaid,active,Guelmim-Oued Noun,Premium
+212760118702,2024-01-06,postpaid,active,Rabat-Salé-Kénitra,Infinity
+212798157514,2024-09-10,postpaid,active,Dakhla-Oued Ed-Dahab,Infinity
+212751555649,2025-02-16,postpaid,active,Fès-Meknès,Starter
+212666113341,2024-02-28,postpaid,active,Oriental,Starter
